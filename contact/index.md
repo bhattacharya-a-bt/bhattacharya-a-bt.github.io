@@ -7,7 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We're always looking to recruit graduate students, postdoctoral researchers, and research associates/scientists of all levels! Contact us for more information.
+The Bhattacharya Lab for Computational Genomics is a part of [MD Anderson Cancer Center](https://www.mdanderson.org/)'s
+[Department of Epidemiology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html).
+If you're interested in joining us as a graduate student, postdoctoral researcher, or research associate/scientist,
+please contact us!
 
 {%
   include button.html
@@ -19,7 +22,7 @@ We're always looking to recruit graduate students, postdoctoral researchers, and
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://www.google.com/maps/place/Pickens+Tower/@29.7050614,-95.3994982,17z/data=!3m2!4b1!5s0x8640c07455ff752b:0xf534bb04ee519767!4m6!3m5!1s0x8640c074f92e1ab9:0xb27a728ca62e9812!8m2!3d29.7050614!4d-95.3969233!16s%2Fg%2F11c37l6q70?entry=ttu)"
+  link="https://www.google.com/maps/place/Pickens+Tower/@29.7050614,-95.3969233,15z/data=!4m2!3m1!1s0x0:0xb27a728ca62e9812?sa=X&ved=2ahUKEwi67uq2-ev_AhVGH0QIHWVoDzgQ_BJ6BAhOEAA&ved=2ahUKEwi67uq2-ev_AhVGH0QIHWVoDzgQ_BJ6BAhVEAg"
 %}
 
 {% include section.html %}
