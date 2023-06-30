@@ -1,10 +1,9 @@
 ---
-name: John Doe
+name: Yunghan Chang
 image: images/photo.jpg
-role: phd
-group: alum
+role: ms
 links:
-  github: john-doe
+  email: yhc1998@g.ucla.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Yunghan is an MS student in Biostatistics at UCLA, co-advised by Bogdan Pasaniuc. She works on methods for intergrating genetics and transcriptomics for samples derived from admixed populations.
