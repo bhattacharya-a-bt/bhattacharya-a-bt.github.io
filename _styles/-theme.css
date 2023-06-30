@@ -1,6 +1,6 @@
 [data-dark=false] {
-  --primary: #0ea5e9;
-  --secondary: #7dd3fc;
+  --primary: #84bcda;
+  --secondary: #a50104;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -33,7 +33,7 @@
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
-  --spacing: 2;
+  --spacing: 1;
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
 }
