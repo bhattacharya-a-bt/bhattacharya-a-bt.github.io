@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We're a group of statisticians, geneticists, and computational biologists developing tools to study the
-genetic and molecular epidemiology of cancer outcomes and developmental phenotypes. If you want to join us
+We're building a group of statisticians, geneticists, and computational biologists with the goal of 
+developing computational tools to study the
+genetic and molecular epidemiology of cancer risk/outcomes and developmental phenotypes. If you want to join us
 as a graduate student, a postdoctoral researcher, or research scientist/associate, email
 [Arjun](mailto:bhattacharya.a.bt@gmail.com)!
 
