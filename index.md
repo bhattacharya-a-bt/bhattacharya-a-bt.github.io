@@ -1,9 +1,9 @@
 ---
 ---
 
-# bhattacharya-a-bt's Website
+# Computational genomics and molecular epidemiology
 
-An engaging 1-3 sentence description of your lab.
+The Bhattacharya Lab for Computational Genomcis is a team of researchers at MD Anderson Cancer Center exploring the biological mechanisms contributing to cancer risk and outcomes and developmental phenotypes. We develop fully open and accessible computational tools based on statistical principles to analyze large genetics, functional genomics, and clinical datasets.
 
 {% include section.html %}
 
