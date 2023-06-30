@@ -31,8 +31,8 @@ please contact us!
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/houstonpark.jpg"
+  caption="Houston, TX"
 %}
 
 {% endcapture %}
@@ -41,8 +41,8 @@ please contact us!
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/pickens.jpg"
+  caption="Pickens Tower, MD Anderson Cancer Center"
 %}
 
 {% endcapture %}
