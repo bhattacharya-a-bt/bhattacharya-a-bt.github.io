@@ -1,8 +1,8 @@
 # site properties and page defaults
 title: The Bhattacharya Lab for Computational Genomics
 subtitle: Computational genetic and molecular epidemiology for cancer and developmental outcomes
-header: images/background.jpg
-footer: images/background.jpg
+header: images/anderson_whole.jpeg
+footer: images/txmedcenter.jpeg
 
 # site social media and other links
 links:
