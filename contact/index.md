@@ -31,7 +31,7 @@ please contact us!
 
 {%
   include figure.html
-  image="images/houstonpark.jpg"
+  image="images/houstonpark.jpeg"
   caption="Houston, TX"
 %}
 
@@ -41,7 +41,7 @@ please contact us!
 
 {%
   include figure.html
-  image="images/pickens.jpg"
+  image="images/pickens.jpeg"
   caption="Pickens Tower, MD Anderson Cancer Center"
 %}
 
