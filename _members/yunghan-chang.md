@@ -1,6 +1,6 @@
 ---
 name: Yunghan Chang
-image: images/yunghanchang.jpg
+image: images/yunhangchang.jpg
 role: ms
 links:
   orcid: 0009-0004-3041-0390
