@@ -18,7 +18,7 @@ as a graduate student, a postdoctoral researcher, or research scientist/associat
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/anderson_whole.jpeg" dark=true %}
 
 We're a group of statisticians, geneticists, and computational biologists developing tools to study the
 genetic and molecular epidemiology of cancer outcomes and developmental phenotypes. If you want to join us
