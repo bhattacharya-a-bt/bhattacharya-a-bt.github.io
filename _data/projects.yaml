@@ -1,47 +1,27 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: MOSTWAS
+  subtitle: Multi-omic strategies for transcriptome-wide association studies
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/mostwas.jpg
+  link: https://github.com/bhattacharya-a-bt/mostwas
+  description: R package to predict gene expression and map gene-trait associations through distal-mediated TWAS
+  repo: bhattacharya-a-bt/MOSTWAS
   tags:
     - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: isoTWAS
+  subtitle: Isoform-level transcriptome-wide association studies
+  group: featured
+  image: images/isotwas.jpg
+  link: https://github.com/bhattacharya-a-bt/isotwas
+  description: R pacakge to build multivariate isoform models and map isoform-trait associations using two-step associations
+  repo: bhattacharya-a-bt/isotwas
+  tags:
+    - software
+- title: DeCompress
+  subtitle: Semi-reference-free cell-type deconvolution for targeted RNA sequencing data
+  group: featured
+  image: images/decompress.jpg
+  link: https://github.com/bhattacharya-a-bt/DeCompress
+  description: R pacakge to use compressed sensing for cell-type deconvolution for targeted RNA sequencing platforms
+  repo: bhattacharya-a-bt/DeCompress
   tags:
     - software
