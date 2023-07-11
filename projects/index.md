@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We develop computational tools that use statistical principles and machine learning techniques to integrate genetic and molecular to prioritize biological mechanisms that contextualize genetic associations with complex traits. Here's a few packages we've developed.
 
 {% include tags.html tags="publication, resource, website" %}
 
