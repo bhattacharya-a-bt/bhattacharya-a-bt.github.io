@@ -1,133 +1,625 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1158/0008-5472.c.6568427.v1
+  title: Data from Gene-Level Germline Contributions to Clinical Risk of Recurrence
+    Scores in Black and White Patients with Breast Cancer
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Achal Patel
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  - Arjun Bhattacharya
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-07'
+  link: https://doi.org/gsf995
+  orcid: 0000-0003-1196-4385
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1158/0008-5472.c.6568427
+  title: Data from Gene-Level Germline Contributions to Clinical Risk of Recurrence
+    Scores in Black and White Patients with Breast Cancer
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Achal Patel
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  - Arjun Bhattacharya
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-07'
+  link: https://doi.org/gsf996
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22574585.v1
+  title: Supplementary Methods, Figures S1 - S7, and References from Gene-Level Germline
+    Contributions to Clinical Risk of Recurrence Scores in Black and White Patients
+    with Breast Cancer
+  authors:
+  - Achal Patel
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  - Arjun Bhattacharya
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-07'
+  link: https://doi.org/gsf997
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22574585
+  title: Supplementary Methods, Figures S1 - S7, and References from Gene-Level Germline
+    Contributions to Clinical Risk of Recurrence Scores in Black and White Patients
+    with Breast Cancer
+  authors:
+  - Achal Patel
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  - Arjun Bhattacharya
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-07'
+  link: https://doi.org/gsf998
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22574582.v1
+  title: Supplementary Tables S1-S12 from Gene-Level Germline Contributions to Clinical
+    Risk of Recurrence Scores in Black and White Patients with Breast Cancer
+  authors:
+  - Achal Patel
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  - Arjun Bhattacharya
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-07'
+  link: https://doi.org/gsgbbc
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22574582
+  title: Supplementary Tables S1-S12 from Gene-Level Germline Contributions to Clinical
+    Risk of Recurrence Scores in Black and White Patients with Breast Cancer
+  authors:
+  - Achal Patel
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  - Arjun Bhattacharya
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-07'
+  link: https://doi.org/gsgbbd
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-023-01338-6
+  title: Causal effects on complex traits are similar for common variants across segments
+    of different continental ancestries within admixed individuals
+  authors:
+  - Kangcheng Hou
+  - Yi Ding
+  - Ziqi Xu
+  - Yue Wu
+  - Arjun Bhattacharya
+  - Rachel Mester
+  - Gillian M. Belbin
+  - Steve Buyske
+  - David V. Conti
+  - Burcu F. Darst
+  - Myriam Fornage
+  - Chris Gignoux
+  - Xiuqing Guo
+  - Christopher Haiman
+  - Eimear E. Kenny
+  - Michelle Kim
+  - Charles Kooperberg
+  - Leslie Lange
+  - Ani Manichaikul
+  - Kari E. North
+  - Ulrike Peters
+  - Laura J. Rasmussen-Torvik
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Heather E. Wheeler
+  - Genevieve L. Wojcik
+  - Ying Zhou
+  - Sriram Sankararaman
+  - Bogdan Pasaniuc
+  publisher: Nature Genetics
+  date: '2023-03-20'
+  link: https://doi.org/gsgbbf
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-2645173/v1
+  title: Polygenic scores for tobacco use provide insights into systemic health risks
+    in a diverse EHR-linked biobank in Los Angeles
+  authors:
+  - Vidhya Venkateswaran
+  - Kristin Boulier
+  - Yi Ding
+  - Ruth Johnson
+  - Arjun Bhattacharya
+  - Bogdan Pasaniuc
+  publisher: Research Square Platform LLC
+  date: '2023-03-17'
+  link: https://doi.org/gsgbbg
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.05.23285493
+  title: Polygenic scores for tobacco use provide insights into systemic health risks
+    in a diverse EHR-linked biobank in Los Angeles
+  authors:
+  - Vidhya Venkateswaran
+  - Kristin Boulier
+  - Yi Ding
+  - Ruth Johnson
+  - Arjun Bhattacharya
+  - Bogdan Pasaniuc
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-02-08'
+  link: https://doi.org/gsgbbh
+  orcid: 0000-0003-1196-4385
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/2023.01.20.524946
+  title: Impact of cross-ancestry genetic architecture on GWAS in admixed populations
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Rachel Mester
+  - Kangcheng Hou
+  - Yi Ding
+  - Gillian Meeks
+  - Kathryn S. Burch
+  - Arjun Bhattacharya
+  - Brenna M. Henn
+  - Bogdan Pasaniuc
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-24'
+  link: https://doi.org/gsgbbj
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.18.22281204
+  title: Multivariate variance components analysis uncovers genetic architecture of
+    brain isoform expression and novel psychiatric disease mechanisms
+  authors:
+  - Minsoo Kim
+  - Daniel D. Vo
+  - Connor T. Jops
+  - Cindy Wen
+  - Ashok Patowary
+  - Arjun Bhattacharya
+  - Chloe X. Yap
+  - Hua Zhou
+  - Michael J. Gandal
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-21'
+  link: https://doi.org/jqg7
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.xgen.2022.100180
+  title: 'Best practices for multi-ancestry, meta-analytic transcriptome-wide association
+    studies: Lessons from the Global Biobank Meta-analysis Initiative'
+  authors:
+  - Arjun Bhattacharya
+  - Jibril B. Hirbo
+  - Dan Zhou
+  - Wei Zhou
+  - Jie Zheng
+  - Masahiro Kanai
+  - Bogdan Pasaniuc
+  - Eric R. Gamazon
+  - Nancy J. Cox
+  publisher: Cell Genomics
+  date: '2022-10-01'
+  link: https://doi.org/gsgbbk
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.08.23.22279134
+  title: Isoform-level transcriptome-wide association uncovers extensive novel genetic
+    risk mechanisms for neuropsychiatric disorders in the human brain
+  authors:
+  - Arjun Bhattacharya
+  - Daniel D. Vo
+  - Connor Jops
+  - Minsoo Kim
+  - Cindy Wen
+  - Jonatan L. Hervoso
+  - Bogdan Pasaniuc
+  - Michael J. Gandal
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-25'
+  link: https://doi.org/jqg9
+  orcid: 0000-0003-1196-4385
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.08.16.22278868
+  title: Causal effects on complex traits are similar across segments of different
+    continental ancestries within admixed individuals
+  authors:
+  - Kangcheng Hou
+  - Yi Ding
+  - Ziqi Xu
+  - Yue Wu
+  - Arjun Bhattacharya
+  - Rachel Mester
+  - Gillian Belbin
+  - David Conti
+  - Burcu F. Darst
+  - Myriam Fornage
+  - Chris Gignoux
+  - Xiuqing Guo
+  - Christopher Haiman
+  - Eimear Kenny
+  - Michelle Kim
+  - Charles Kooperberg
+  - Leslie Lange
+  - Ani Manichaikul
+  - Kari E. North
+  - Natalie Nudelman
+  - Ulrike Peters
+  - Laura J. Rasmussen-Torvik
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Heather E. Wheeler
+  - Ying Zhou
+  - Sriram Sankararaman
+  - Bogdan Pasaniuc
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-18'
+  link: https://doi.org/gsgbbm
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.12.22270895
+  title: 'The UCLA ATLAS Community Health Initiative: promoting precision health research
+    in a diverse biobank'
+  authors:
+  - Ruth Johnson
+  - Yi Ding
+  - Arjun Bhattacharya
+  - Alec Chiu
+  - Clara Lajonchere
+  - Daniel H. Geschwind
+  - Bogdan Pasaniuc
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-14'
+  link: https://doi.org/gsgbbn
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.08.22270601
+  title: Distal gene regulation mediated by non-coding RNAs contributes to germline
+    risk for breast and prostate cancer
+  authors:
+  - Nolan Cole
+  - Paige Lee
+  - Tommer Schwarz
+  - Pan Zhang
+  - Matthew L. Freedman
+  - Alexander Gusev
+  - "Sara Lindstr\xF6m"
+  - Michael J. Gandal
+  - Bogdan Pasaniuc
+  - Arjun Bhattacharya
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-09'
+  link: https://doi.org/gsgbbp
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-28365-x
+  title: Placental genomics mediates genetic associations with complex health traits
+    and disease
+  authors:
+  - Arjun Bhattacharya
+  - Anastasia N. Freedman
+  - Vennela Avula
+  - Rebeca Harris
+  - Weifang Liu
+  - Calvin Pan
+  - Aldons J. Lusis
+  - Robert M. Joseph
+  - Lisa Smeester
+  - Hadley J. Hartwell
+  - Karl C. K. Kuban
+  - Carmen J. Marsit
+  - Yun Li
+  - "T. Michael O\u2019Shea"
+  - Rebecca C. Fry
+  - Hudson P. Santos
+  publisher: Nature Communications
+  date: '2022-02-04'
+  link: https://doi.org/gsgbbq
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.01.09.21268473
+  title: Proteome-wide Mendelian randomization in global biobank meta-analysis reveals
+    multi-ancestry drug targets for common diseases
+  authors:
+  - Huiling Zhao
+  - Humaria Rasheed
+  - "Therese Haugdahl N\xF8st"
+  - Yoonsu Cho
+  - Yi Liu
+  - Laxmi Bhatta
+  - Arjun Bhattacharya
+  - Gibran Hemani
+  - George Davey Smith
+  - Ben Michael Brumpton
+  - Wei Zhou
+  - Benjamin M. Neale
+  - Tom R. Gaunt
+  - Jie Zheng
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-11'
+  link: https://doi.org/gsgbbr
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-21-1207
+  title: Gene-Level Germline Contributions to Clinical Risk of Recurrence Scores in
+    Black and White Patients with Breast Cancer
+  authors:
+  - Achal Patel
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  - Arjun Bhattacharya
+  publisher: Cancer Research
+  date: '2021-10-28'
+  link: https://doi.org/gsgbbs
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.12.16.21267891
+  title: Genome-wide association meta-analysis identifies novel ancestry-specific
+    primary open-angle glaucoma loci and shared biology with vascular mechanisms and
+    cell proliferation
+  authors:
+  - Valeria Lo Faro
+  - Arjun Bhattacharya
+  - Wei Zhou
+  - Dan Zhou
+  - Ying Wang
+  - "Kristi L\xE4ll"
+  - Masahiro Kanai
+  - Esteban Lopera-Maya
+  - Peter Straub
+  - Priyanka Pawar
+  - Ran Tao
+  - Xue Zhong
+  - Shinichi Namba
+  - Serena Sanna
+  - Ilja M. Nolte
+  - Yukinori Okada
+  - Nathan Ingold
+  - Stuart MacGregor
+  - Harold Snieder
+  - Ida Surakka
+  - Cristen Willer
+  - Alicia R. Martin
+  - Milam A. Brantley
+  - Eric R. Gamazon
+  - Nomdo M. Jansonius
+  - Karen Joos
+  - Nancy J. Cox
+  - Jibril Hirbo
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-17'
+  link: https://doi.org/gsgbbt
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.11.24.21266825
+  title: 'Best practices for multi-ancestry, meta-analytic transcriptome-wide association
+    studies: lessons from the Global Biobank Meta-analysis Initiative'
+  authors:
+  - Arjun Bhattacharya
+  - Jibril B. Hirbo
+  - Dan Zhou
+  - Wei Zhou
+  - Jie Zheng
+  - Masahiro Kanai
+  - Bogdan Pasaniuc
+  - Eric R. Gamazon
+  - Nancy J. Cox
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-11-26'
+  link: https://doi.org/gsgbbv
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.09.22.21263987
+  title: 'Leveraging genomic diversity for discovery in an EHR-linked biobank: the
+    UCLA ATLAS Community Health Initiative'
+  authors:
+  - Ruth Johnson
+  - Yi Ding
+  - Vidhya Venkateswaran
+  - Arjun Bhattacharya
+  - Alec Chiu
+  - Tommer Schwarz
+  - Malika Freund
+  - Lingyu Zhan
+  - Kathryn S. Burch
+  - Christa Caggiano
+  - Brian Hill
+  - Nadav Rakocz
+  - Brunilda Balliu
+  - Jae Hoon Sul
+  - Noah Zaitlen
+  - Valerie A. Arboleda
+  - Eran Halperin
+  - Sriram Sankararaman
+  - Manish J. Butte
+  - Clara Lajonchere
+  - Daniel H. Geschwind
+  - Bogdan Pasaniuc
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-09-23'
+  link: https://doi.org/gsgbbw
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.08.14.250902
+  title: 'DeCompress: tissue compartment deconvolution of targeted mRNA expression
+    panels using compressed sensing'
+  authors:
+  - Arjun Bhattacharya
+  - Alina M. Hamilton
+  - Melissa A. Troester
+  - Michael I. Love
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-14'
+  link: https://doi.org/gsgbbx
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.04.12.21255170
+  title: Genetic control of fetal placental genomics contributes to development of
+    health and disease
+  authors:
+  - Arjun Bhattacharya
+  - Anastasia N. Freedman
+  - Vennela Avula
+  - Rebeca Harris
+  - Weifang Liu
+  - Calvin Pan
+  - Aldons J. Lusis
+  - Robert M. Joseph
+  - Lisa Smeester
+  - Hadley J. Hartwell
+  - Karl C.K. Kuban
+  - Carmen J. Marsit
+  - Yun Li
+  - "T. Michael O\u2019Shea"
+  - Rebecca C. Fry
+  - Hudson P. Santos
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-04-14'
+  link: https://doi.org/gsgbbz
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.03.19.21253983
+  title: Gene-level germline contributions to clinical risk of recurrence scores in
+    Black and White breast cancer patients
+  authors:
+  - Achal Patel
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  - Arjun Bhattacharya
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-03-22'
+  link: https://doi.org/gsgbb2
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.17.047225
+  title: 'MOSTWAS: Multi-Omic Strategies for Transcriptome-Wide Association Studies'
+  authors:
+  - Arjun Bhattacharya
+  - Yun Li
+  - Michael I. Love
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-18'
+  link: https://doi.org/gkxgbq
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13229-020-00402-w
+  title: 'Evidence for the placenta-brain axis: multi-omic kernel aggregation predicts
+    intellectual and social impairment in children born extremely preterm'
+  authors:
+  - Hudson P. Santos Jr
+  - Arjun Bhattacharya
+  - Robert M. Joseph
+  - Lisa Smeester
+  - Karl C. K. Kuban
+  - Carmen J. Marsit
+  - "T. Michael O\u2019Shea"
+  - Rebecca C. Fry
+  publisher: Molecular Autism
+  date: '2020-12-01'
+  link: https://doi.org/gsgbb3
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bib/bbaa163
+  title: An approach for normalization and quality control for NanoString RNA expression
+    data
+  authors:
+  - Arjun Bhattacharya
+  - Alina M Hamilton
+  - Helena Furberg
+  - Eugene Pietzak
+  - Mark P Purdue
+  - Melissa A Troester
+  - Katherine A Hoadley
+  - Michael I Love
+  publisher: Briefings in Bioinformatics
+  date: '2020-08-13'
+  link: https://doi.org/gsgbb4
+  orcid: 0000-0003-1196-4385
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-020-1942-6
+  title: A framework for transcriptome-wide association studies in breast cancer in
+    diverse study populations
+  authors:
+  - Arjun Bhattacharya
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
   publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2020-02-20'
+  link: https://doi.org/ghj56g
+  orcid: 0000-0003-1196-4385
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1080/15592294.2019.1614743
+  title: 'Epigenome-wide DNA methylation in placentas from preterm infants: association
+    with maternal socioeconomic status'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Hudson P. Santos
+  - Arjun Bhattacharya
+  - Elizabeth M. Martin
+  - Kezia Addo
+  - Matt Psioda
+  - Lisa Smeester
+  - Robert M. Joseph
+  - Stephen R. Hooper
+  - Jean A. Frazier
+  - Karl C. Kuban
+  - "T.Michael O\u2019Shea"
+  - Rebecca C. Fry
+  publisher: Epigenetics
+  date: '2019-05-21'
+  link: https://doi.org/ggztmh
+  orcid: 0000-0003-1196-4385
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
