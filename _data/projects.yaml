@@ -18,7 +18,6 @@
     - software
 - title: DeCompress
   subtitle: Semi-reference-free cell-type deconvolution for targeted RNA sequencing data
-  group: featured
   image: images/decompress.jpg
   link: https://github.com/bhattacharya-a-bt/DeCompress
   description: R pacakge to use compressed sensing for cell-type deconvolution for targeted RNA sequencing platforms
