@@ -13,7 +13,7 @@ The Bhattacharya Lab focuses on both methods development and applications of the
 
 ## Highlighted
 
-{% include list.html data="citations" filters="type: featured" %}
+{% include list.html data="citations" component="citation" filters="type: featured" %}
 
 {% include section.html %}
 
