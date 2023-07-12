@@ -173,9 +173,14 @@ journal:
   tooltip: Journal
 
 featured:
-  icon: fa-regular fa-newspaper
+  icon: fa-solid fa-scroll
   text: Featured
   tooltip: Featured
+
+contributed:
+  icon: fa-regular fa-eye
+  text: Contributed
+  tooltip: Contributed
 
 preprint:
   icon: fa-regular fa-eye
