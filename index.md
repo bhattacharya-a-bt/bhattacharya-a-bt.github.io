@@ -13,7 +13,7 @@ We explore the biological mechanisms contributing to cancer risk and outcomes an
 
 {% capture text %}
 
-We use statistical and epidemiological principles to develop and apply computational genomics tools to answer understand cancer and development. We prioritize transparency, rigor, and reproducibility and value interdisciplinary collaboration and creativity.
+We use statistical and epidemiological principles to develop and apply computational genomics tools to understand the biology underlying  cancer and development. We prioritize transparency, rigor, and reproducibility and value interdisciplinary collaboration and creativity.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ We use statistical and epidemiological principles to develop and apply computati
 
 {% capture text %}
 
-Our goals are two-fold: (1) develop computational tools to further genomics and (2) use these tools properly in large data to ask and answer important questions about cancer and development. Our software will always be open-source and our analyses reproducible.
+Our goals are two-fold: (1) develop computational tools to further genomics and (2) use these tools properly in large molecular datasets to ask and answer important questions about cancer and development. Our software will always be open-source and our analyses reproducible.
 
 {%
   include button.html
@@ -62,7 +62,7 @@ Our goals are two-fold: (1) develop computational tools to further genomics and 
 {% capture text %}
 
 Meet our team that's committed to learning and growing in a healthy, collaborative environment.
-Reach out if you're interested in joining us! We're looking for epidemiologists, statisticians,
+[Reach out if you're interested in joining us!](mailto:bhattacharya.a.bt@gmail.com) We're looking for epidemiologists, statisticians,
 data scientists, biologists, and clinicians at all levels.
 
 {%
