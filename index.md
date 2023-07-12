@@ -51,7 +51,7 @@ Our goals are two-fold: (1) develop computational tools to further genomics and 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/comptools.png"
   link="projects"
   title="Computational tools for genetics and functional genomics"
   flip=true
@@ -78,7 +78,7 @@ data scientists, biologists, and clinicians at all levels.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/anderson_whole.jpeg"
   link="team"
   title="Our growing team"
   text=text
