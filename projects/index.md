@@ -1,11 +1,11 @@
 ---
-title: Projects
+title: Tools
 nav:
   order: 2
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Our tools
 
 We develop computational tools that use statistical principles and machine learning techniques to integrate genetic and molecular to prioritize biological mechanisms that contextualize genetic associations with complex traits. Here's a few packages we've developed.
 
