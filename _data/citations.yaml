@@ -68,27 +68,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -104,30 +88,1177 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1016/j.ajhg.2023.05.001
+  title: Impact of cross-ancestry genetic architecture on GWASs in admixed populations
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Rachel Mester
+  - Kangcheng Hou
+  - Yi Ding
+  - Gillian Meeks
+  - Kathryn S. Burch
+  - Arjun Bhattacharya
+  - Brenna M. Henn
+  - Bogdan Pasaniuc
+  publisher: The American Journal of Human Genetics
+  date: '2023-06-01'
+  link: https://doi.org/gsgb3c
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1093/bioinformatics/btad288
+  title: twas_sim, a Python-based tool for simulation and power analysis of transcriptome-wide
+    association analysis
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Xinran Wang
+  - Zeyun Lu
+  - Arjun Bhattacharya
+  - Bogdan Pasaniuc
+  - Nicholas Mancuso
+  publisher: Bioinformatics
+  date: '2023-04-26'
+  link: https://doi.org/gr7v3k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-023-01338-6
+  title: Causal effects on complex traits are similar for common variants across segments
+    of different continental ancestries within admixed individuals
+  authors:
+  - Kangcheng Hou
+  - Yi Ding
+  - Ziqi Xu
+  - Yue Wu
+  - Arjun Bhattacharya
+  - Rachel Mester
+  - Gillian M. Belbin
+  - Steve Buyske
+  - David V. Conti
+  - Burcu F. Darst
+  - Myriam Fornage
+  - Chris Gignoux
+  - Xiuqing Guo
+  - Christopher Haiman
+  - Eimear E. Kenny
+  - Michelle Kim
+  - Charles Kooperberg
+  - Leslie Lange
+  - Ani Manichaikul
+  - Kari E. North
+  - Ulrike Peters
+  - Laura J. Rasmussen-Torvik
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Heather E. Wheeler
+  - Genevieve L. Wojcik
+  - Ying Zhou
+  - Sriram Sankararaman
+  - Bogdan Pasaniuc
+  publisher: Nature Genetics
+  date: '2023-03-20'
+  link: https://doi.org/gsgbbf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100243
+  title: 'The UCLA ATLAS Community Health Initiative: Promoting precision health research
+    in a diverse biobank'
+  authors:
+  - Ruth Johnson
+  - Yi Ding
+  - Arjun Bhattacharya
+  - Sergey Knyazev
+  - Alec Chiu
+  - Clara Lajonchere
+  - Daniel H. Geschwind
+  - Bogdan Pasaniuc
+  publisher: Cell Genomics
+  date: '2023-01-01'
+  link: https://doi.org/gsgb36
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-022-05377-7
+  title: Broad transcriptomic dysregulation occurs across the cerebral cortex in ASD
+  authors:
+  - Michael J. Gandal
+  - Jillian R. Haney
+  - Brie Wamsley
+  - Chloe X. Yap
+  - Sepideh Parhami
+  - Prashant S. Emani
+  - Nathan Chang
+  - George T. Chen
+  - Gil D. Hoftman
+  - Diego de Alba
+  - Gokul Ramaswami
+  - Christopher L. Hartl
+  - Arjun Bhattacharya
+  - Chongyuan Luo
+  - Ting Jin
+  - Daifeng Wang
+  - Riki Kawaguchi
+  - Diana Quintero
+  - Jing Ou
+  - Ye Emily Wu
+  - Neelroop N. Parikshak
+  - Vivek Swarup
+  - T. Grant Belgard
+  - Mark Gerstein
+  - Bogdan Pasaniuc
+  - Daniel H. Geschwind
+  publisher: Nature
+  date: '2022-11-02'
+  link: https://doi.org/gsgb37
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100180
+  title: 'Best practices for multi-ancestry, meta-analytic transcriptome-wide association
+    studies: Lessons from the Global Biobank Meta-analysis Initiative'
+  authors:
+  - Arjun Bhattacharya
+  - Jibril B. Hirbo
+  - Dan Zhou
+  - Wei Zhou
+  - Jie Zheng
+  - Masahiro Kanai
+  - Bogdan Pasaniuc
+  - Eric R. Gamazon
+  - Nancy J. Cox
+  publisher: Cell Genomics
+  date: '2022-10-01'
+  link: https://doi.org/gsgbbk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100195
+  title: Proteome-wide Mendelian randomization in global biobank meta-analysis reveals
+    multi-ancestry drug targets for common diseases
+  authors:
+  - Huiling Zhao
+  - Humaria Rasheed
+  - "Therese Haugdahl N\xF8st"
+  - Yoonsu Cho
+  - Yi Liu
+  - Laxmi Bhatta
+  - Arjun Bhattacharya
+  - Gibran Hemani
+  - George Davey Smith
+  - Ben Michael Brumpton
+  - Wei Zhou
+  - Benjamin M. Neale
+  - Tom R. Gaunt
+  - Jie Zheng
+  publisher: Cell Genomics
+  date: '2022-11-01'
+  link: https://doi.org/gsgb38
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100210
+  title: Meta-analysis fine-mapping is often miscalibrated at single-variant resolution
+  authors:
+  - Masahiro Kanai
+  - Roy Elzur
+  - Wei Zhou
+  - Mark J. Daly
+  - Hilary K. Finucane
+  - Wei Zhou
+  - Masahiro Kanai
+  - Kuan-Han H. Wu
+  - Humaira Rasheed
+  - Kristin Tsuo
+  - Jibril B. Hirbo
+  - Ying Wang
+  - Arjun Bhattacharya
+  - Huiling Zhao
+  - Shinichi Namba
+  - Ida Surakka
+  - Brooke N. Wolford
+  - Valeria Lo Faro
+  - Esteban A. Lopera-Maya
+  - "Kristi L\xE4ll"
+  - "Marie-Julie Fav\xE9"
+  - Juulia J. Partanen
+  - "Sin\xE9ad B. Chapman"
+  - Juha Karjalainen
+  - Mitja Kurki
+  - Mutaamba Maasha
+  - Ben M. Brumpton
+  - Sameer Chavan
+  - Tzu-Ting Chen
+  - Michelle Daya
+  - Yi Ding
+  - Yen-Chen A. Feng
+  - Lindsay A. Guare
+  - Christopher R. Gignoux
+  - Sarah E. Graham
+  - Whitney E. Hornsby
+  - Nathan Ingold
+  - Said I. Ismail
+  - Ruth Johnson
+  - Triin Laisk
+  - Kuang Lin
+  - Jun Lv
+  - Iona Y. Millwood
+  - Sonia Moreno-Grau
+  - Kisung Nam
+  - Priit Palta
+  - Anita Pandit
+  - Michael H. Preuss
+  - Chadi Saad
+  - Shefali Setia-Verma
+  - Unnur Thorsteinsdottir
+  - Jasmina Uzunovic
+  - Anurag Verma
+  - Matthew Zawistowski
+  - Xue Zhong
+  - Nahla Afifi
+  - Kawthar M. Al-Dabhani
+  - Asma Al Thani
+  - Yuki Bradford
+  - Archie Campbell
+  - Kristy Crooks
+  - Geertruida H. de Bock
+  - Scott M. Damrauer
+  - Nicholas J. Douville
+  - Sarah Finer
+  - Lars G. Fritsche
+  - Eleni Fthenou
+  - Gilberto Gonzalez-Arroyo
+  - Christopher J. Griffiths
+  - Yu Guo
+  - Karen A. Hunt
+  - Alexander Ioannidis
+  - Nomdo M. Jansonius
+  - Takahiro Konuma
+  - Ming Ta Michael Lee
+  - Arturo Lopez-Pineda
+  - Yuta Matsuda
+  - Riccardo E. Marioni
+  - Babak Moatamed
+  - Marco A. Nava-Aguilar
+  - Kensuke Numakura
+  - Snehal Patil
+  - Nicholas Rafaels
+  - Anne Richmond
+  - "Agustin Rojas-Mu\xF1oz"
+  - Jonathan A. Shortt
+  - Peter Straub
+  - Ran Tao
+  - Brett Vanderwerff
+  - Manvi Vernekar
+  - Yogasudha Veturi
+  - Kathleen C. Barnes
+  - Marike Boezen
+  - Zhengming Chen
+  - Chia-Yen Chen
+  - Judy Cho
+  - George Davey Smith
+  - Hilary K. Finucane
+  - Lude Franke
+  - Eric R. Gamazon
+  - Andrea Ganna
+  - Tom R. Gaunt
+  - Tian Ge
+  - Hailiang Huang
+  - Jennifer Huffman
+  - Nicholas Katsanis
+  - Jukka T. Koskela
+  - Clara Lajonchere
+  - Matthew H. Law
+  - Liming Li
+  - Cecilia M. Lindgren
+  - Ruth J.F. Loos
+  - Stuart MacGregor
+  - Koichi Matsuda
+  - Catherine M. Olsen
+  - David J. Porteous
+  - Jordan A. Shavit
+  - Harold Snieder
+  - Tomohiro Takano
+  - Richard C. Trembath
+  - Judith M. Vonk
+  - David C. Whiteman
+  - Stephen J. Wicks
+  - Cisca Wijmenga
+  - John Wright
+  - Jie Zheng
+  - Xiang Zhou
+  - Philip Awadalla
+  - Michael Boehnke
+  - Carlos D. Bustamante
+  - Nancy J. Cox
+  - Segun Fatumo
+  - Daniel H. Geschwind
+  - Caroline Hayward
+  - Kristian Hveem
+  - Eimear E. Kenny
+  - Seunggeun Lee
+  - Yen-Feng Lin
+  - Hamdi Mbarek
+  - "Reedik M\xE4gi"
+  - Hilary C. Martin
+  - Sarah E. Medland
+  - Yukinori Okada
+  - Aarno V. Palotie
+  - Bogdan Pasaniuc
+  - Daniel J. Rader
+  - Marylyn D. Ritchie
+  - Serena Sanna
+  - Jordan W. Smoller
+  - Kari Stefansson
+  - David A. van Heel
+  - Robin G. Walters
+  - "Sebastian Z\xF6llner"
+  - ' Biobank of the Americas'
+  - ' Biobank Japan Project'
+  - ' BioMe'
+  - ' BioVU'
+  - ' CanPath - Ontario Health Study'
+  - ' China Kadoorie Biobank Collaborative Group'
+  - ' Colorado Center for Personalized Medicine'
+  - ' deCODE Genetics'
+  - ' Estonian Biobank, FinnGen'
+  - ' Generation Scotland'
+  - ' Genes & Health Research Team'
+  - ' LifeLines'
+  - ' Mass General Brigham Biobank'
+  - ' Michigan Genomics Initiative'
+  - ' National Biobank of Korea'
+  - ' Penn Medicine BioBank'
+  - ' Qatar Biobank'
+  - ' The Qskin Sun and Health Study'
+  - ' Taiwan Biobank'
+  - ' The Hunt Study'
+  - ' Ucla Atlas Community Health Initiative'
+  - ' Uganda Genome Resource'
+  - ' Uk Biobank'
+  - Alicia R. Martin
+  - Cristen J. Willer
+  - Mark J. Daly
+  - Benjamin M. Neale
+  publisher: Cell Genomics
+  date: '2022-12-01'
+  link: https://doi.org/gsgb39
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100241
+  title: Global Biobank analyses provide lessons for developing polygenic risk scores
+    across diverse cohorts
+  authors:
+  - Ying Wang
+  - Shinichi Namba
+  - Esteban Lopera
+  - Sini Kerminen
+  - Kristin Tsuo
+  - "Kristi L\xE4ll"
+  - Masahiro Kanai
+  - Wei Zhou
+  - Kuan-Han Wu
+  - "Marie-Julie Fav\xE9"
+  - Laxmi Bhatta
+  - Philip Awadalla
+  - Ben Brumpton
+  - Patrick Deelen
+  - Kristian Hveem
+  - Valeria Lo Faro
+  - "Reedik M\xE4gi"
+  - Yoshinori Murakami
+  - Serena Sanna
+  - Jordan W. Smoller
+  - Jasmina Uzunovic
+  - Brooke N. Wolford
+  - Cristen Willer
+  - Eric R. Gamazon
+  - Nancy J. Cox
+  - Ida Surakka
+  - Yukinori Okada
+  - Alicia R. Martin
+  - Jibril Hirbo
+  - Wei Zhou
+  - Masahiro Kanai
+  - Kuan-Han H. Wu
+  - Humaira Rasheed
+  - Kristin Tsuo
+  - Jibril B. Hirbo
+  - Ying Wang
+  - Arjun Bhattacharya
+  - Huiling Zhao
+  - Shinichi Namba
+  - Ida Surakka
+  - Brooke N. Wolford
+  - Valeria Lo Faro
+  - Esteban A. Lopera-Maya
+  - "Kristi L\xE4ll"
+  - "Marie-Julie Fav\xE9"
+  - "Sin\xE9ad B. Chapman"
+  - Juha Karjalainen
+  - Mitja Kurki
+  - Maasha Mutaamba
+  - Juulia J. Partanen
+  - Ben M. Brumpton
+  - Sameer Chavan
+  - Tzu-Ting Chen
+  - Michelle Daya
+  - Yi Ding
+  - Yen-Chen A. Feng
+  - Christopher R. Gignoux
+  - Sarah E. Graham
+  - Whitney E. Hornsby
+  - Nathan Ingold
+  - Ruth Johnson
+  - Triin Laisk
+  - Kuang Lin
+  - Jun Lv
+  - Iona Y. Millwood
+  - Priit Palta
+  - Anita Pandit
+  - Michael H. Preuss
+  - Unnur Thorsteinsdottir
+  - Jasmina Uzunovic
+  - Matthew Zawistowski
+  - Xue Zhong
+  - Archie Campbell
+  - Kristy Crooks
+  - Geertruida H. de Bock
+  - Nicholas J. Douville
+  - Sarah Finer
+  - Lars G. Fritsche
+  - Christopher J. Griffiths
+  - Yu Guo
+  - Karen A. Hunt
+  - Takahiro Konuma
+  - Riccardo E. Marioni
+  - Jansonius Nomdo
+  - Snehal Patil
+  - Nicholas Rafaels
+  - Anne Richmond
+  - Jonathan A. Shortt
+  - Peter Straub
+  - Ran Tao
+  - Brett Vanderwerff
+  - Kathleen C. Barnes
+  - Marike Boezen
+  - Zhengming Chen
+  - Chia-Yen Chen
+  - Judy Cho
+  - George Davey Smith
+  - Hilary K. Finucane
+  - Lude Franke
+  - Eric R. Gamazon
+  - Andrea Ganna
+  - Tom R. Gaunt
+  - Tian Ge
+  - Hailiang Huang
+  - Jennifer Huffman
+  - Jukka T. Koskela
+  - Clara Lajonchere
+  - Matthew H. Law
+  - Liming Li
+  - Cecilia M. Lindgren
+  - Ruth J.F. Loos
+  - Stuart MacGregor
+  - Koichi Matsuda
+  - Catherine M. Olsen
+  - David J. Porteous
+  - Jordan A. Shavit
+  - Harold Snieder
+  - Richard C. Trembath
+  - Judith M. Vonk
+  - David Whiteman
+  - Stephen J. Wicks
+  - Cisca Wijmenga
+  - John Wright
+  - Jie Zheng
+  - Xiang Zhou
+  - Philip Awadalla
+  - Michael Boehnke
+  - Nancy J. Cox
+  - Daniel H. Geschwind
+  - Caroline Hayward
+  - Kristian Hveem
+  - Eimear E. Kenny
+  - Yen-Feng Lin
+  - "Reedik M\xE4gi"
+  - Hilary C. Martin
+  - Sarah E. Medland
+  - Yukinori Okada
+  - Aarno V. Palotie
+  - Bogdan Pasaniuc
+  - Serena Sanna
+  - Jordan W. Smoller
+  - Kari Stefansson
+  - David A. van Heel
+  - Robin G. Walters
+  - "Sebastian Z\xF6llner"
+  - Alicia R. Martin
+  - Cristen J. Willer
+  - Mark J. Daly
+  - Benjamin M. Neale
+  publisher: Cell Genomics
+  date: '2023-01-01'
+  link: https://doi.org/grtwk3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100181
+  title: Leveraging global multi-ancestry meta-analysis in the study of idiopathic
+    pulmonary fibrosis genetics
+  authors:
+  - Juulia J. Partanen
+  - "Paavo H\xE4pp\xF6l\xE4"
+  - Wei Zhou
+  - Arto A. Lehisto
+  - Mari Ainola
+  - Eva Sutinen
+  - Richard J. Allen
+  - Amy D. Stockwell
+  - Olivia C. Leavy
+  - Justin M. Oldham
+  - Beatriz Guillen-Guio
+  - Nancy J. Cox
+  - Jibril B. Hirbo
+  - David A. Schwartz
+  - Tasha E. Fingerlin
+  - Carlos Flores
+  - Imre Noth
+  - Brian L. Yaspan
+  - R. Gisli Jenkins
+  - Louise V. Wain
+  - Samuli Ripatti
+  - Matti Pirinen
+  - Tarja Laitinen
+  - Riitta Kaarteenaho
+  - "Marjukka Myll\xE4rniemi"
+  - Mark J. Daly
+  - Jukka T. Koskela
+  publisher: Cell Genomics
+  date: '2022-10-01'
+  link: https://doi.org/gsgb4b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100190
+  title: A practical guideline of genomics-driven drug discovery in the era of global
+    biobank meta-analysis
+  authors:
+  - Shinichi Namba
+  - Takahiro Konuma
+  - Kuan-Han Wu
+  - Wei Zhou
+  - Yukinori Okada
+  publisher: Cell Genomics
+  date: '2022-10-01'
+  link: https://doi.org/gsgb4c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100212
+  title: Multi-ancestry meta-analysis of asthma identifies novel associations and
+    highlights the value of increased power and diversity
+  authors:
+  - Kristin Tsuo
+  - Wei Zhou
+  - Ying Wang
+  - Masahiro Kanai
+  - Shinichi Namba
+  - Rahul Gupta
+  - Lerato Majara
+  - Lethukuthula L. Nkambule
+  - Takayuki Morisaki
+  - Yukinori Okada
+  - Benjamin M. Neale
+  - Mark J. Daly
+  - Alicia R. Martin
+  publisher: Cell Genomics
+  date: '2022-12-01'
+  link: https://doi.org/gsgb4d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13073-022-01106-x
+  title: 'Leveraging genomic diversity for discovery in an electronic health record
+    linked biobank: the UCLA ATLAS Community Health Initiative'
+  authors:
+  - Ruth Johnson
+  - Yi Ding
+  - Vidhya Venkateswaran
+  - Arjun Bhattacharya
+  - Kristin Boulier
+  - Alec Chiu
+  - Sergey Knyazev
+  - Tommer Schwarz
+  - Malika Freund
+  - Lingyu Zhan
+  - Kathryn S. Burch
+  - Christa Caggiano
+  - Brian Hill
+  - Nadav Rakocz
+  - Brunilda Balliu
+  - Christopher T. Denny
+  - Jae Hoon Sul
+  - Noah Zaitlen
+  - Valerie A. Arboleda
+  - Eran Halperin
+  - Sriram Sankararaman
+  - Manish J. Butte
+  - Clara Lajonchere
+  - Daniel H. Geschwind
+  - Bogdan Pasaniuc
+  publisher: Genome Medicine
+  date: '2022-09-09'
+  link: https://doi.org/gqsdjr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100192
+  title: 'Global Biobank Meta-analysis Initiative: Powering genetic discovery across
+    human disease'
+  authors:
+  - Wei Zhou
+  - Masahiro Kanai
+  - Kuan-Han H. Wu
+  - Humaira Rasheed
+  - Kristin Tsuo
+  - Jibril B. Hirbo
+  - Ying Wang
+  - Arjun Bhattacharya
+  - Huiling Zhao
+  - Shinichi Namba
+  - Ida Surakka
+  - Brooke N. Wolford
+  - Valeria Lo Faro
+  - Esteban A. Lopera-Maya
+  - "Kristi L\xE4ll"
+  - "Marie-Julie Fav\xE9"
+  - Juulia J. Partanen
+  - "Sin\xE9ad B. Chapman"
+  - Juha Karjalainen
+  - Mitja Kurki
+  - Mutaamba Maasha
+  - Ben M. Brumpton
+  - Sameer Chavan
+  - Tzu-Ting Chen
+  - Michelle Daya
+  - Yi Ding
+  - Yen-Chen A. Feng
+  - Lindsay A. Guare
+  - Christopher R. Gignoux
+  - Sarah E. Graham
+  - Whitney E. Hornsby
+  - Nathan Ingold
+  - Said I. Ismail
+  - Ruth Johnson
+  - Triin Laisk
+  - Kuang Lin
+  - Jun Lv
+  - Iona Y. Millwood
+  - Sonia Moreno-Grau
+  - Kisung Nam
+  - Priit Palta
+  - Anita Pandit
+  - Michael H. Preuss
+  - Chadi Saad
+  - Shefali Setia-Verma
+  - Unnur Thorsteinsdottir
+  - Jasmina Uzunovic
+  - Anurag Verma
+  - Matthew Zawistowski
+  - Xue Zhong
+  - Nahla Afifi
+  - Kawthar M. Al-Dabhani
+  - Asma Al Thani
+  - Yuki Bradford
+  - Archie Campbell
+  - Kristy Crooks
+  - Geertruida H. de Bock
+  - Scott M. Damrauer
+  - Nicholas J. Douville
+  - Sarah Finer
+  - Lars G. Fritsche
+  - Eleni Fthenou
+  - Gilberto Gonzalez-Arroyo
+  - Christopher J. Griffiths
+  - Yu Guo
+  - Karen A. Hunt
+  - Alexander Ioannidis
+  - Nomdo M. Jansonius
+  - Takahiro Konuma
+  - Ming Ta Michael Lee
+  - Arturo Lopez-Pineda
+  - Yuta Matsuda
+  - Riccardo E. Marioni
+  - Babak Moatamed
+  - Marco A. Nava-Aguilar
+  - Kensuke Numakura
+  - Snehal Patil
+  - Nicholas Rafaels
+  - Anne Richmond
+  - "Agustin Rojas-Mu\xF1oz"
+  - Jonathan A. Shortt
+  - Peter Straub
+  - Ran Tao
+  - Brett Vanderwerff
+  - Manvi Vernekar
+  - Yogasudha Veturi
+  - Kathleen C. Barnes
+  - Marike Boezen
+  - Zhengming Chen
+  - Chia-Yen Chen
+  - Judy Cho
+  - George Davey Smith
+  - Hilary K. Finucane
+  - Lude Franke
+  - Eric R. Gamazon
+  - Andrea Ganna
+  - Tom R. Gaunt
+  - Tian Ge
+  - Hailiang Huang
+  - Jennifer Huffman
+  - Nicholas Katsanis
+  - Jukka T. Koskela
+  - Clara Lajonchere
+  - Matthew H. Law
+  - Liming Li
+  - Cecilia M. Lindgren
+  - Ruth J.F. Loos
+  - Stuart MacGregor
+  - Koichi Matsuda
+  - Catherine M. Olsen
+  - David J. Porteous
+  - Jordan A. Shavit
+  - Harold Snieder
+  - Tomohiro Takano
+  - Richard C. Trembath
+  - Judith M. Vonk
+  - David C. Whiteman
+  - Stephen J. Wicks
+  - Cisca Wijmenga
+  - John Wright
+  - Jie Zheng
+  - Xiang Zhou
+  - Philip Awadalla
+  - Michael Boehnke
+  - Carlos D. Bustamante
+  - Nancy J. Cox
+  - Segun Fatumo
+  - Daniel H. Geschwind
+  - Caroline Hayward
+  - Kristian Hveem
+  - Eimear E. Kenny
+  - Seunggeun Lee
+  - Yen-Feng Lin
+  - Hamdi Mbarek
+  - "Reedik M\xE4gi"
+  - Hilary C. Martin
+  - Sarah E. Medland
+  - Yukinori Okada
+  - Aarno V. Palotie
+  - Bogdan Pasaniuc
+  - Daniel J. Rader
+  - Marylyn D. Ritchie
+  - Serena Sanna
+  - Jordan W. Smoller
+  - Kari Stefansson
+  - David A. van Heel
+  - Robin G. Walters
+  - "Sebastian Z\xF6llner"
+  - Alicia R. Martin
+  - Cristen J. Willer
+  - Mark J. Daly
+  - Benjamin M. Neale
+  publisher: Cell Genomics
+  date: '2022-10-01'
+  link: https://doi.org/grr9zf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s11689-022-09429-x
+  title: Innovative computational approaches shed light on genetic mechanisms underlying
+    cognitive impairment among children born extremely preterm
+  authors:
+  - Weifang Liu
+  - Quan Sun
+  - Le Huang
+  - Arjun Bhattacharya
+  - Geoffery W. Wang
+  - Xianming Tan
+  - Karl C. K. Kuban
+  - Robert M. Joseph
+  - "T. Michael O\u2019Shea"
+  - Rebecca C. Fry
+  - Yun Li
+  - Hudson P. Santos
+  publisher: Journal of Neurodevelopmental Disorders
+  date: '2022-03-03'
+  link: https://doi.org/gsgb4f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-022-28365-x
+  title: Placental genomics mediates genetic associations with complex health traits
+    and disease
+  authors:
+  - Arjun Bhattacharya
+  - Anastasia N. Freedman
+  - Vennela Avula
+  - Rebeca Harris
+  - Weifang Liu
+  - Calvin Pan
+  - Aldons J. Lusis
+  - Robert M. Joseph
+  - Lisa Smeester
+  - Hadley J. Hartwell
+  - Karl C. K. Kuban
+  - Carmen J. Marsit
+  - Yun Li
+  - "T. Michael O\u2019Shea"
+  - Rebecca C. Fry
+  - Hudson P. Santos
+  publisher: Nature Communications
+  date: '2022-02-04'
+  link: https://doi.org/gsgbbq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/0008-5472.CAN-21-1207
+  title: Gene-Level Germline Contributions to Clinical Risk of Recurrence Scores in
+    Black and White Patients with Breast Cancer
+  authors:
+  - Achal Patel
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  - Arjun Bhattacharya
+  publisher: Cancer Research
+  date: '2021-10-28'
+  link: https://doi.org/gsgbbs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10549-021-06497-w
+  title: Racial differences in breast cancer outcomes by hepatocyte growth factor
+    pathway expression
+  authors:
+  - Gieira S. Jones
+  - Katherine A. Hoadley
+  - Halei Benefield
+  - Linnea T. Olsson
+  - Alina M. Hamilton
+  - Arjun Bhattacharya
+  - Erin L. Kirk
+  - Heather J. Tipaldos
+  - Jodie M. Fleming
+  - Kevin P. Williams
+  - Michael I. Love
+  - Hazel B. Nichols
+  - Andrew F. Olshan
+  - Melissa A. Troester
+  publisher: Breast Cancer Research and Treatment
+  date: '2022-01-16'
+  link: https://doi.org/gsgb4g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-021-00953-5
+  title: On powerful GWAS in admixed populations
+  authors:
+  - Kangcheng Hou
+  - Arjun Bhattacharya
+  - Rachel Mester
+  - Kathryn S. Burch
+  - Bogdan Pasaniuc
+  publisher: Nature Genetics
+  date: '2021-11-25'
+  link: https://doi.org/grxq39
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13058-021-01460-5
+  title: Hepatocyte growth factor pathway expression in breast cancer by race and
+    subtype
+  authors:
+  - Gieira S. Jones
+  - Katherine A. Hoadley
+  - Linnea T. Olsson
+  - Alina M. Hamilton
+  - Arjun Bhattacharya
+  - Erin L. Kirk
+  - Heather J. Tipaldos
+  - Jodie M. Fleming
+  - Michael I. Love
+  - Hazel B. Nichols
+  - Andrew F. Olshan
+  - Melissa A. Troester
+  publisher: Breast Cancer Research
+  date: '2021-08-03'
+  link: https://doi.org/gsgb4h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1009398
+  title: 'MOSTWAS: Multi-Omic Strategies for Transcriptome-Wide Association Studies'
+  authors:
+  - Arjun Bhattacharya
+  - Yun Li
+  - Michael I. Love
+  publisher: PLOS Genetics
+  date: '2021-03-08'
+  link: https://doi.org/gnxjvk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/nar/gkab031
+  title: 'DeCompress: tissue compartment deconvolution of targeted mRNA expression
+    panels using compressed sensing'
+  authors:
+  - Arjun Bhattacharya
+  - Alina M Hamilton
+  - Melissa A Troester
+  - Michael I Love
+  publisher: Nucleic Acids Research
+  date: '2021-02-01'
+  link: https://doi.org/gsgb4j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jad.2020.12.193
+  title: Biopsychosocial correlates of psychological distress in Latina mothers
+  authors:
+  - Hudson P Santos
+  - Harry Adynski
+  - Rebeca Harris
+  - Arjun Bhattacharya
+  - Angela C Incollingo Rodriguez
+  - Ryan Cali
+  - Alessandra Torres Yabar
+  - Benjamin C Nephew
+  - Christopher Murgatroyd
+  publisher: Journal of Affective Disorders
+  date: '2021-03-01'
+  link: https://doi.org/grzq6s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13229-020-00402-w
+  title: 'Evidence for the placenta-brain axis: multi-omic kernel aggregation predicts
+    intellectual and social impairment in children born extremely preterm'
+  authors:
+  - Hudson P. Santos Jr
+  - Arjun Bhattacharya
+  - Robert M. Joseph
+  - Lisa Smeester
+  - Karl C. K. Kuban
+  - Carmen J. Marsit
+  - "T. Michael O\u2019Shea"
+  - Rebecca C. Fry
+  publisher: Molecular Autism
+  date: '2020-12-01'
+  link: https://doi.org/gsgbb3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bib/bbaa163
+  title: An approach for normalization and quality control for NanoString RNA expression
+    data
+  authors:
+  - Arjun Bhattacharya
+  - Alina M Hamilton
+  - Helena Furberg
+  - Eugene Pietzak
+  - Mark P Purdue
+  - Melissa A Troester
+  - Katherine A Hoadley
+  - Michael I Love
+  publisher: Briefings in Bioinformatics
+  date: '2020-08-13'
+  link: https://doi.org/gsgbb4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-020-1942-6
+  title: A framework for transcriptome-wide association studies in breast cancer in
+    diverse study populations
+  authors:
+  - Arjun Bhattacharya
+  - "Montserrat Garc\xEDa-Closas"
+  - Andrew F. Olshan
+  - Charles M. Perou
+  - Melissa A. Troester
+  - Michael I. Love
+  publisher: Genome Biology
+  date: '2020-02-20'
+  link: https://doi.org/ghj56g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/15592294.2019.1614743
+  title: 'Epigenome-wide DNA methylation in placentas from preterm infants: association
+    with maternal socioeconomic status'
+  authors:
+  - Hudson P. Santos
+  - Arjun Bhattacharya
+  - Elizabeth M. Martin
+  - Kezia Addo
+  - Matt Psioda
+  - Lisa Smeester
+  - Robert M. Joseph
+  - Stephen R. Hooper
+  - Jean A. Frazier
+  - Karl C. Kuban
+  - "T.Michael O\u2019Shea"
+  - Rebecca C. Fry
+  publisher: Epigenetics
+  date: '2019-05-21'
+  link: https://doi.org/ggztmh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.psyneuen.2018.08.014
+  title: Discrimination exposure and DNA methylation of stress-related genes in Latina
+    mothers
+  authors:
+  - Hudson P. Santos
+  - Benjamin C. Nephew
+  - Arjun Bhattacharya
+  - Xianming Tan
+  - Laura Smith
+  - Reema Abdulrahman S. Alyamani
+  - Elizabeth M. Martin
+  - Krista Perreira
+  - Rebecca C. Fry
+  - Christopher Murgatroyd
+  publisher: Psychoneuroendocrinology
+  date: '2018-12-01'
+  link: https://doi.org/gfp3rb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.03.03.23286706
+  title: Cross-ancestry, cell-type-informed atlas of gene, isoform, and splicing regulation
+    in the developing human brain
+  authors:
+  - Cindy Wen
+  - Michael Margolis
+  - Rujia Dai
+  - Pan Zhang
+  - Pawel F Przytycki
+  - Daniel D Vo
+  - Arujun Bhattacharya
+  - Minsoo Kim
+  - Nana Matoba
+  - Ellen Tsai
+  - Celine Hoh
+  - Chuan Jiao
+  - Nil Aygun
+  - Rebecca L Walker
+  - Christos Chatzinakos
+  - Declan Clarke
+  - Henry Pratt
+  - Mette A Peters
+  - Mark Gerstein
+  - Nikolaos P Daskalakis
+  - Zhiping Weng
+  - Andrew E Jaffe
+  - Joel E Kleinman
+  - Thomas M Hyde
+  - Daniel R Weinberger
+  - Nicholas J Bray
+  - Nenad Sestan
+  - Daniel H Geschwind
+  - Kathryn Roeder
+  - Alexander Gusev
+  - Bogdan Pasaniuc
+  - Jason L Stein
+  - Michael I Love
+  - Katherine S Pollard
+  - Chunyu Liu
+  - Michael J Gandal
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-06'
+  link: https://doi.org/j4nh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.02.05.23285493
+  title: Polygenic scores for tobacco use provide insights into systemic health risks
+    in a diverse EHR-linked biobank in Los Angeles
+  authors:
+  - Vidhya Venkateswaran
+  - Kristin Boulier
+  - Yi Ding
+  - Ruth Johnson
+  - Arjun Bhattacharya
+  - Bogdan Pasaniuc
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-08'
+  link: https://doi.org/gsgbbh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.08.23.22279134
+  title: Isoform-level transcriptome-wide association uncovers extensive novel genetic
+    risk mechanisms for neuropsychiatric disorders in the human brain
+  authors:
+  - Arjun Bhattacharya
+  - Daniel D. Vo
+  - Connor Jops
+  - Minsoo Kim
+  - Cindy Wen
+  - Jonatan L. Hervoso
+  - Bogdan Pasaniuc
+  - Michael J. Gandal
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-25'
+  link: https://doi.org/jqg9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.10.18.22281204
+  title: Multivariate variance components analysis uncovers genetic architecture of
+    brain isoform expression and novel psychiatric disease mechanisms
+  authors:
+  - Minsoo Kim
+  - Daniel D. Vo
+  - Connor T. Jops
+  - Cindy Wen
+  - Ashok Patowary
+  - Arjun Bhattacharya
+  - Chloe X. Yap
+  - Hua Zhou
+  - Michael J. Gandal
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-21'
+  link: https://doi.org/jqg7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.02.08.22270601
+  title: Distal gene regulation mediated by non-coding RNAs contributes to germline
+    risk for breast and prostate cancer
+  authors:
+  - Nolan Cole
+  - Paige Lee
+  - Tommer Schwarz
+  - Pan Zhang
+  - Matthew L. Freedman
+  - Alexander Gusev
+  - "Sara Lindstr\xF6m"
+  - Michael J. Gandal
+  - Bogdan Pasaniuc
+  - Arjun Bhattacharya
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-09'
+  link: https://doi.org/gsgbbp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2021.12.16.21267891
+  title: Genome-wide association meta-analysis identifies novel ancestry-specific
+    primary open-angle glaucoma loci and shared biology with vascular mechanisms and
+    cell proliferation
+  authors:
+  - Valeria Lo Faro
+  - Arjun Bhattacharya
+  - Wei Zhou
+  - Dan Zhou
+  - Ying Wang
+  - "Kristi L\xE4ll"
+  - Masahiro Kanai
+  - Esteban Lopera-Maya
+  - Peter Straub
+  - Priyanka Pawar
+  - Ran Tao
+  - Xue Zhong
+  - Shinichi Namba
+  - Serena Sanna
+  - Ilja M. Nolte
+  - Yukinori Okada
+  - Nathan Ingold
+  - Stuart MacGregor
+  - Harold Snieder
+  - Ida Surakka
+  - Cristen Willer
+  - Alicia R. Martin
+  - Milam A. Brantley
+  - Eric R. Gamazon
+  - Nomdo M. Jansonius
+  - Karen Joos
+  - Nancy J. Cox
+  - Jibril Hirbo
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-17'
+  link: https://doi.org/gsgbbt
   plugin: sources.py
   file: sources.yaml
