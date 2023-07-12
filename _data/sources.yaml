@@ -1,23 +1,34 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1016/j.ajhg.2023.05.001
+- id: doi:10.1093/bioinformatics/btad288
+- id: doi:10.1038/s41588-023-01338-6
+- id: doi:10.1016/j.xgen.2022.100243
+- id: doi:10.1038/s41586-022-05377-7
+- id: doi:10.1016/j.xgen.2022.100180
+- id: doi:10.1016/j.xgen.2022.100195
+- id: doi:10.1016/j.xgen.2022.100210
+- id: doi:10.1016/j.xgen.2022.100241
+- id: doi:10.1016/j.xgen.2022.100181
+- id: doi:10.1016/j.xgen.2022.100190
+- id: doi:10.1016/j.xgen.2022.100212
+- id: doi:10.1186/s13073-022-01106-x
+- id: doi:10.1016/j.xgen.2022.100192
+- id: doi:10.1186/s11689-022-09429-x
+- id: doi:10.1038/s41467-022-28365-x
+- id: doi:10.1158/0008-5472.CAN-21-1207
+- id: doi:10.1007/s10549-021-06497-w
+- id: doi:10.1038/s41588-021-00953-5
+- id: doi:10.1186/s13058-021-01460-5
+- id: doi:10.1371/journal.pgen.1009398
+- id: doi:10.1093/nar/gkab031
+- id: doi:10.1016/j.jad.2020.12.193
+- id: doi:10.1186/s13229-020-00402-w
+- id: doi:10.1093/bib/bbaa163
+- id: doi:10.1186/s13059-020-1942-6
+- id: doi:10.1080/15592294.2019.1614743
+- id: doi:10.1016/j.psyneuen.2018.08.014
+- id: doi:10.1101/2023.03.03.23286706
+- id: doi:10.1101/2023.02.05.23285493
+- id: doi:10.1101/2022.08.23.22279134
+- id: doi:10.1101/2022.10.18.22281204
+- id: doi:10.1101/2022.02.08.22270601
+- id: doi:10.1101/2021.12.16.21267891
