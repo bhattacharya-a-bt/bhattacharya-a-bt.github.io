@@ -18,7 +18,7 @@ We use statistical and epidemiological principles to develop and apply computati
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our work!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -41,7 +41,7 @@ Our goals are two-fold: (1) develop computational tools to further genomics and 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our projects!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
