@@ -13,7 +13,7 @@ We explore the biological mechanisms contributing to cancer risk and outcomes an
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use statistical and epidemiological principles to develop and apply computational genomics tools to answer understand cancer and development. We prioritize transparency, rigor, and reproducibility and value interdisciplinary collaboration and creativity.
 
 {%
   include button.html
@@ -30,13 +30,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Genomics + data science → biological mechanisms"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our goals are two-fold: (1) develop computational tools to further genomics and (2) use these tools properly in large data to ask and answer important questions about cancer and development. Our software will always be open-source and our analyses reproducible.
 
 {%
   include button.html
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Computational tools for genetics and functional genomics"
   flip=true
   style="bare"
   text=text
@@ -61,12 +61,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our team that's committed to learning and growing in a healthy, collaborative environment.
+Reach out if you're interested in joining us! We're looking for epidemiologists, statisticians,
+data scientists, biologists, and clinicians at all levels.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet our team!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -78,6 +80,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Our growing team"
   text=text
 %}
