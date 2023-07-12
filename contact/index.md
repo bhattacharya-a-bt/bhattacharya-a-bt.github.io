@@ -15,7 +15,7 @@ please contact us!
 {%
   include button.html
   type="email"
-  text="bhattacharya.a.bt@gmail.com"
+  text="Email us!"
   link="bhattacharya.a.bt@gmail.com"
 %}
 {%
