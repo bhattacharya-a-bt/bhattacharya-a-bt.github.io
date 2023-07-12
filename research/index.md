@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Bhattacharya Lab focuses on both methods development and applications of these methods to study complex traits and disease using large molecular datasets through multi-group collaboration. We highlight manuscripts with primary contributions from our group and include work to which we've contributed.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html data="citations" filters="group: featured" %}
+{% include citation.html data="citations" filters="type: featured" %}
 
 {% include section.html %}
 
