@@ -104,6 +104,6 @@ def main(entry):
         source.update(entry)
 
         # add source to list
-        sources.append(source)
+        # sources.append(source)
 
     return sources
