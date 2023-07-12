@@ -172,6 +172,11 @@ journal:
   text: Journal
   tooltip: Journal
 
+featured:
+  icon: fa-regular fa-newspaper
+  text: Featured
+  tooltip: Featured
+
 preprint:
   icon: fa-regular fa-eye
   text: Preprint
