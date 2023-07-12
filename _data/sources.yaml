@@ -1,5 +1,5 @@
 - id: doi:10.1016/j.ajhg.2023.05.001
-  group: featured
+  type: featured
 - id: doi:10.1093/bioinformatics/btad288
 - id: doi:10.1038/s41588-023-01338-6
 - id: doi:10.1016/j.xgen.2022.100243
