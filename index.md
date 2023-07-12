@@ -78,7 +78,7 @@ data scientists, biologists, and clinicians at all levels.
 
 {%
   include feature.html
-  image="images/anderson_whole.jpeg"
+  image="images/pickens.jpeg"
   link="team"
   title="Our growing team"
   text=text
