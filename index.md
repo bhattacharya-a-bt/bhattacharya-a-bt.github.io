@@ -28,7 +28,7 @@ We use statistical and epidemiological principles to develop and apply computati
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Genomics + data science → biological mechanisms"
   text=text
