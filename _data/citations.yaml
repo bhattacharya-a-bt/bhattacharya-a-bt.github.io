@@ -14,7 +14,7 @@
   publisher: The American Journal of Human Genetics
   date: '2023-06-01'
   link: https://doi.org/gsgb3c
-  type: featured
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btad288
@@ -29,6 +29,7 @@
   publisher: Bioinformatics
   date: '2023-04-26'
   link: https://doi.org/gr7v3k
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-023-01338-6
@@ -67,6 +68,7 @@
   publisher: Nature Genetics
   date: '2023-03-20'
   link: https://doi.org/gsgbbf
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100243
@@ -84,6 +86,7 @@
   publisher: Cell Genomics
   date: '2023-01-01'
   link: https://doi.org/gsgb36
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-022-05377-7
@@ -118,6 +121,7 @@
   publisher: Nature
   date: '2022-11-02'
   link: https://doi.org/gsgb37
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100180
@@ -136,6 +140,7 @@
   publisher: Cell Genomics
   date: '2022-10-01'
   link: https://doi.org/gsgbbk
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100195
@@ -159,6 +164,7 @@
   publisher: Cell Genomics
   date: '2022-11-01'
   link: https://doi.org/gsgb38
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100210
@@ -347,6 +353,7 @@
   publisher: Cell Genomics
   date: '2022-12-01'
   link: https://doi.org/gsgb39
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100241
@@ -505,6 +512,7 @@
   publisher: Cell Genomics
   date: '2023-01-01'
   link: https://doi.org/grtwk3
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100181
@@ -541,6 +549,7 @@
   publisher: Cell Genomics
   date: '2022-10-01'
   link: https://doi.org/gsgb4b
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100190
@@ -555,6 +564,7 @@
   publisher: Cell Genomics
   date: '2022-10-01'
   link: https://doi.org/gsgb4c
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100212
@@ -577,6 +587,7 @@
   publisher: Cell Genomics
   date: '2022-12-01'
   link: https://doi.org/gsgb4d
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13073-022-01106-x
@@ -611,6 +622,7 @@
   publisher: Genome Medicine
   date: '2022-09-09'
   link: https://doi.org/gqsdjr
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100192
@@ -772,6 +784,7 @@
   publisher: Cell Genomics
   date: '2022-10-01'
   link: https://doi.org/grr9zf
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s11689-022-09429-x
@@ -793,6 +806,7 @@
   publisher: Journal of Neurodevelopmental Disorders
   date: '2022-03-03'
   link: https://doi.org/gsgb4f
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-022-28365-x
@@ -818,6 +832,7 @@
   publisher: Nature Communications
   date: '2022-02-04'
   link: https://doi.org/gsgbbq
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1158/0008-5472.CAN-21-1207
@@ -834,6 +849,7 @@
   publisher: Cancer Research
   date: '2021-10-28'
   link: https://doi.org/gsgbbs
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10549-021-06497-w
@@ -857,6 +873,7 @@
   publisher: Breast Cancer Research and Treatment
   date: '2022-01-16'
   link: https://doi.org/gsgb4g
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-021-00953-5
@@ -870,6 +887,7 @@
   publisher: Nature Genetics
   date: '2021-11-25'
   link: https://doi.org/grxq39
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13058-021-01460-5
@@ -891,6 +909,7 @@
   publisher: Breast Cancer Research
   date: '2021-08-03'
   link: https://doi.org/gsgb4h
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pgen.1009398
@@ -902,6 +921,7 @@
   publisher: PLOS Genetics
   date: '2021-03-08'
   link: https://doi.org/gnxjvk
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/nar/gkab031
@@ -915,6 +935,7 @@
   publisher: Nucleic Acids Research
   date: '2021-02-01'
   link: https://doi.org/gsgb4j
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jad.2020.12.193
@@ -932,6 +953,7 @@
   publisher: Journal of Affective Disorders
   date: '2021-03-01'
   link: https://doi.org/grzq6s
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13229-020-00402-w
@@ -949,6 +971,7 @@
   publisher: Molecular Autism
   date: '2020-12-01'
   link: https://doi.org/gsgbb3
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bib/bbaa163
@@ -966,6 +989,7 @@
   publisher: Briefings in Bioinformatics
   date: '2020-08-13'
   link: https://doi.org/gsgbb4
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13059-020-1942-6
@@ -981,6 +1005,7 @@
   publisher: Genome Biology
   date: '2020-02-20'
   link: https://doi.org/ghj56g
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/15592294.2019.1614743
@@ -1002,6 +1027,7 @@
   publisher: Epigenetics
   date: '2019-05-21'
   link: https://doi.org/ggztmh
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.psyneuen.2018.08.014
@@ -1021,6 +1047,7 @@
   publisher: Psychoneuroendocrinology
   date: '2018-12-01'
   link: https://doi.org/gfp3rb
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.03.03.23286706
@@ -1066,6 +1093,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-03-06'
   link: https://doi.org/j4nh
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.02.05.23285493
@@ -1081,6 +1109,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-02-08'
   link: https://doi.org/gsgbbh
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.08.23.22279134
@@ -1098,6 +1127,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-08-25'
   link: https://doi.org/jqg9
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.10.18.22281204
@@ -1116,6 +1146,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-10-21'
   link: https://doi.org/jqg7
+  type: contributed
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.02.08.22270601
@@ -1135,6 +1166,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-02-09'
   link: https://doi.org/gsgbbp
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2021.12.16.21267891
@@ -1173,5 +1205,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-12-17'
   link: https://doi.org/gsgbbt
+  type: contributed
   plugin: sources.py
   file: sources.yaml
