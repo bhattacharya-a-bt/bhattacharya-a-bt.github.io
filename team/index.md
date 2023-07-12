@@ -19,8 +19,8 @@ collaboration, creativity, and civility.
 
 {% include section.html background="images/anderson_whole.jpeg" dark=true %}
 
-We're building out our group: tf you want to join us
-as a graduate student, a postdoctoral researcher, or research scientist/associate, email
+We're building out our group with enthusiastic scientists sharing our interests. If you want to join us
+as a graduate student, a postdoctoral researcher, or research scientist/associate, send an email to
 [Arjun](mailto:bhattacharya.a.bt@gmail.com)!
 
 {% include section.html %}
