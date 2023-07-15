@@ -36,7 +36,7 @@ We use statistical and epidemiological principles to develop and apply computati
 
 {% capture text %}
 
-Our goals are two-fold: (1) develop computational tools to further genomics and (2) use these tools properly in large molecular datasets to ask and answer important questions about cancer and development. Our software will always be open-source and our analyses reproducible.
+Our goals are two-fold: (1) ask and answer important questions about cancer and development and (2) develop computational tools to help us explore these questions in large genetic and molecular datasets. Our software will always be open-source and our analyses reproducible.
 
 {%
   include button.html
