@@ -19,8 +19,6 @@ One main goal of our lab is to understand the biological and environmental contr
   text=text
 %}
 
-{% capture text %}
-
 A second goal of our lab is to generate and analyze large-scale genetic and molecular datasets that can help the research community understand molecular regulation during the developmental window. Our lab focuses on the genomic regulation within the placenta, the master regulator of the intrauterine environemnt. Through international collaborations, we seek to understand the influence of genetic and epigenetic regulation in the placenta on developmental programming and its effects on early-life outcomes.
 
 {%
@@ -32,8 +30,6 @@ A second goal of our lab is to generate and analyze large-scale genetic and mole
   style="bare"
   text=text
 %}
-
-{% capture text %}
 
 To study cancer and development, we build computational tools that use statistical principles and machine learning techniques to integrate genetic and molecular datsets to prioritize biological mechanisms that contextualize genetic associations with complex traits. Here's a few packages we've developed.
 
