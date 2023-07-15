@@ -13,7 +13,7 @@ computational tools and epidemiologic principles.
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/tumor.png"
   title="Transcriptomic effects on cancer risk and outcomes"
   text="One main goal of our lab is to understand the biological and environmental contributions to cancer risk, outcomes, and disparities. We study the genetic regulation of the transcriptome, how this is modified by the environment, and how this affects cancer risk, mortality, recurrence, and tumor progression and endophenotypes. We focus on how genetic variants influence alternative splicing patterns and isoform expression by analyzing large molecular datasets collected from diverse populations."
 %}
