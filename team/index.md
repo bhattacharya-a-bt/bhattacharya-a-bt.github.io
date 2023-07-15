@@ -21,7 +21,7 @@ collaboration, creativity, and civility.
 
 We're building out our group with enthusiastic scientists sharing our interests. If you want to join us
 as a graduate student, a postdoctoral researcher, or research scientist/associate, send an email to
-[Arjun](mailto:bhattacharya.a.bt@gmail.com)!
+[Arjun](mailto:bhattacharya.a.bt@gmail.com) with a CV and a brief blurb about your research interests and goals!
 
 {% include section.html %}
 
