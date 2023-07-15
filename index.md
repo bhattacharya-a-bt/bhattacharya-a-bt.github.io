@@ -62,7 +62,7 @@ Our goals are two-fold: (1) ask and answer important questions about cancer and 
 {% capture text %}
 
 Meet our team that's committed to learning and growing in a healthy, collaborative environment.
-[Reach out if you're interested in joining us!](link="contact") We're looking for epidemiologists, statisticians,
+[Reach out if you're interested in joining us!](contact) We're looking for epidemiologists, statisticians,
 data scientists, biologists, and clinicians at all levels.
 
 {%
