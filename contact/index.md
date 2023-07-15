@@ -10,7 +10,7 @@ nav:
 The Bhattacharya Lab for Computational Genomics is a part of [MD Anderson Cancer Center](https://www.mdanderson.org/)'s
 [Department of Epidemiology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html).
 If you're interested in joining us as a graduate student, postdoctoral researcher, or research associate/scientist,
-please contact us!
+please contact us! Send an email with your CV and a brief overview of your research interests and career goals.
 
 {%
   include button.html
