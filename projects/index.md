@@ -20,7 +20,7 @@ computational tools and epidemiologic principles.
 
 {%
   include feature.html
-  image="images/comptools.png"
+  image="images/dohad.png"
   title="Genetic and epigenetic regulation in development"
   flip=true
   style="bare"
