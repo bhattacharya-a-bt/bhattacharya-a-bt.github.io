@@ -5,7 +5,7 @@ nav:
   tooltip: Exciting updates about the team
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 Here's some recent news for the Bhattacharya Lab!
 
