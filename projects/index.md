@@ -1,13 +1,15 @@
 ---
-title: Tools
+title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Projects, software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Our tools
+# {% include icon.html icon="fa-solid fa-wrench" %}Our projects
 
-We develop computational tools that use statistical principles and machine learning techniques to integrate genetic and molecular to prioritize biological mechanisms that contextualize genetic associations with complex traits. Here's a few packages we've developed.
+We are interested in understanding how genetics influences our biology and manifests in effects on complex traits. 
+
+To study cancer and development, we develop computational tools that use statistical principles and machine learning techniques to integrate genetic and molecular to prioritize biological mechanisms that contextualize genetic associations with complex traits. Here's a few packages we've developed.
 
 {% include tags.html tags="publication, resource, website" %}
 
