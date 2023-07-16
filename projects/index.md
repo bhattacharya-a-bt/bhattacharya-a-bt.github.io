@@ -28,7 +28,7 @@ computational tools and epidemiologic principles.
 %}
 
 
-To study cancer and development, we build computational tools that use statistical principles and machine learning techniques to integrate genetic and molecular datasets to prioritize biological mechanisms that contextualize genetic associations with complex traits. Here's a few packages we've developed.
+To study cancer and development, we build computational tools that use statistical principles and machine learning techniques to integrate genetic and molecular datasets to prioritize biological mechanisms that contextualize genetic associations with complex traits. Here are a few packages we've developed.
 
 {% include tags.html tags="publication, resource, website" %}
 
