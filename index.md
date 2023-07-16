@@ -5,7 +5,7 @@
 
 The Bhattacharya Lab for Computational Genomics is a team of researchers at [MD Anderson Cancer Center](https://www.mdanderson.org/)'s
 [Department of Epidemiology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html).
-We explore the biological mechanisms contributing to cancer risk and outcomes and developmental phenotypes and develop fully open and accessible computational tools based on statistical principles to analyze large genetics, functional genomics, and clinical datasets. [Reach out if you're interested in joining us!](contact)
+We explore the biological mechanisms contributing to cancer risk and outcomes and developmental phenotypes and develop fully open and accessible computational tools based on statistical principles to analyze large genetic, functional genomic, and clinical datasets. [Reach out if you're interested in joining us!](contact)
 
 {% include section.html %}
 
