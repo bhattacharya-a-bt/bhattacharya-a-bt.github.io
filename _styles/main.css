@@ -4,4 +4,8 @@ main {
   flex-grow: 1;
 }
 
+.intro-header {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
 /*# sourceMappingURL=main.css.map */
