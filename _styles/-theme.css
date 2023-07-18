@@ -7,7 +7,7 @@
   --light-gray: #e0e0e0;
   --gray: #808080;
   --overlay: #00000000;
-  --text-second: #ffffff;
+  --text-second: #ffffff10;
 }
 
 [data-dark=true] {
@@ -18,7 +18,7 @@
   --background-alt: #1c1c1c;
   --light-gray: #404040;
   --gray: #808080;
-  --overlay: #00000000;
+  --overlay: #ffffff10;
 }
 
 :root {
