@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-The Bhattacharya Lab focuses on both methods development and applications of these methods to study complex traits and diseases using large molecular datasets through multi-group collaboration. We highlight manuscripts with primary contributions from our group and include work to which we've contributed.
+The Bhattacharya Lab focuses on both methods development and applications of these methods to study complex traits and diseases using large molecular datasets collected from diverse populations. We highlight manuscripts with primary contributions from our group and include work to which we've contributed.
 
 {% include section.html %}
 
