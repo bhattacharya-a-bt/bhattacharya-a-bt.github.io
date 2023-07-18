@@ -1,0 +1,16 @@
+---
+title: isoTWAS preprint is updated on medRxiv
+author: arjun-bhattacharya
+tags:
+  - news
+  - manuscript
+  - software
+---
+
+{%
+  image="images/isotwas.jpg"
+  text="Check out our isoTWAS manuscript, [updated on medRxiv](https://www.medrxiv.org/content/10.1101/2022.08.23.22279134v3), with increased 
+functionality in [our R package](https://github.com/bhattacharya-a-bt/isotwas), greatly expanded sample sizes for our empirical
+analyses, and a larger number of complex traits studied."
+%}
+
