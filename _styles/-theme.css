@@ -36,7 +36,7 @@
   --bold: 600;
   --spacing: 2;
   --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --shadow: 0 0 10px 0 rgba(0,0,0,.2);
 }
 
 /*# sourceMappingURL=-theme.css.map */
