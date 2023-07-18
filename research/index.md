@@ -9,7 +9,7 @@ nav:
 
 {%
   include feature.html
-  image="images/tumor.png"
+  image="images/diversepopgen.png"
   text="The Bhattacharya Lab focuses on both methods development and applications of these methods to study complex traits and diseases using large molecular datasets through multi-group collaboration. We highlight manuscripts with primary contributions from our group and include work to which we’ve contributed."
 %}
 
