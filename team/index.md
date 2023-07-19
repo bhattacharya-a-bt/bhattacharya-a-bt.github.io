@@ -23,7 +23,7 @@ We're building out our group with enthusiastic scientists sharing our interests.
 For prospective graduate students interested in The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, please [visit here and apply to the program directly](https://gsbs.uth.edu/about/index.htm).
 If you want to join us
 as a graduate student in GSBS, a postdoctoral researcher, or research scientist/associate, send an email to
-[Arjun](mailto:bhattacharya.a.bt@gmail.com) with a CV and a brief blurb about your research interests and goals!
+[bhattacharya.a.bt@gmail.com](mailto:bhattacharya.a.bt@gmail.com) with a CV and a brief blurb about your research interests and goals!
 
 {% include section.html %}
 
