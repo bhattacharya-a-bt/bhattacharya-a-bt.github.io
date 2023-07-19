@@ -7,8 +7,8 @@ aliases:
   - A Bhattacharya
 links:
   email: bhattacharya.a.bt@gmail.com
-  twitter: https://twitter.com/bhattac_a_bt
-  github: https://github.com/bhattacharya-a-bt
+  twitter: bhattac_a_bt
+  github: bhattacharya-a-bt
   google-scholar: https://scholar.google.com/citations?user=gnKP5eQAAAAJ&hl=en
   orcid: 0000-0003-1196-4385
 ---
