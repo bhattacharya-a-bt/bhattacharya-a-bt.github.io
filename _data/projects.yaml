@@ -2,7 +2,7 @@
   subtitle: Multi-omic strategies for transcriptome-wide association studies
   group: featured
   image: images/mostwas.jpg
-  link: https://github.com/bhattacharya-a-bt/mostwas
+  link: https://bhattacharya-lab.com/MOSTWAS/
   description: R package to predict gene expression and map gene-trait associations through distal-mediated TWAS
   repo: bhattacharya-a-bt/MOSTWAS
   tags:
@@ -11,7 +11,7 @@
   subtitle: Isoform-level transcriptome-wide association studies
   group: featured
   image: images/isotwas.jpg
-  link: https://github.com/bhattacharya-a-bt/isotwas
+  link: https://bhattacharya-lab.com/isotwas/
   description: R package to build multivariate isoform models and map isoform-trait associations using two-step associations
   repo: bhattacharya-a-bt/isotwas
   tags:
@@ -19,7 +19,7 @@
 - title: DeCompress
   subtitle: Semi-reference-free cell-type deconvolution for targeted RNA sequencing data
   image: images/decompress.jpg
-  link: https://github.com/bhattacharya-a-bt/DeCompress
+  link: https://bhattacharya-lab.com/DeCompress/index.html
   description: R package to use compressed sensing for cell-type deconvolution for targeted RNA sequencing platforms
   repo: bhattacharya-a-bt/DeCompress
   tags:
