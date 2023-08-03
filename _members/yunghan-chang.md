@@ -1,6 +1,9 @@
 ---
 name: Yunghan Chang
 image: images/yunhangchang.jpg
+aliases:
+  - Y. Chan
+  - Y Chan
 role: ms
 links:
   orcid: 0009-0004-3041-0390
