@@ -6,7 +6,7 @@ aliases:
   - A. Bhattacharya
   - A Bhattacharya
 links:
-  email: bhattacharya.a.bt@gmail.com
+  email: abhattacharya3@mdanderson.org
   twitter: bhattac_a_bt
   github: bhattacharya-a-bt
   google-scholar: https://scholar.google.com/citations?user=gnKP5eQAAAAJ&hl=en
