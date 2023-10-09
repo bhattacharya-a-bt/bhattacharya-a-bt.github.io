@@ -12,6 +12,11 @@ developing computational tools to study the
 genetic and molecular epidemiology of cancer risk/outcomes and developmental phenotypes. We value
 collaboration, creativity, and civility.
 
+**Open positions**
+
+We are currently looking for a Postdoctoral Scholar focusing on statistical genomics and molecular epidemiology. Click here to learn [more](images/Postdoc_MDAndersonEpi_BhattacharyaLab_Fall2023.pdf). Email [abhattacharya3@mdanderson.org](mailto:abhattacharya3@mdanderson.org) with a cover letter,
+CV, and information for 2-3 references if interested.
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
@@ -23,7 +28,7 @@ We're building out our group with enthusiastic scientists who share our interest
 For prospective graduate students interested in The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, please [visit here and apply to the program directly](https://gsbs.uth.edu/about/index.htm).
 If you want to join us
 as a graduate student in GSBS, a postdoctoral researcher, or research scientist/associate, send an email to
-[bhattacharya.a.bt@gmail.com](mailto:bhattacharya.a.bt@gmail.com) with a CV and a brief blurb about your research interests and goals!
+[abhattacharya3@mdanderson.org](mailto:abhattacharya3@mdanderson.org) with a CV and a brief blurb about your research interests and goals!
 
 {% include section.html %}
 
