@@ -14,6 +14,12 @@ If you want to join us
 as a graduate student in GSBS, a postdoctoral researcher, or research scientist/associate, send an email to
 [abhattacharya3@mdanderson.org](mailto:abhattacharya3@mdanderson.org) with a CV and a brief blurb about your research interests and goals!
 
+
+**Open Postdoctoral Scholar position**
+
+We are currently looking for a Postdoctoral Scholar focusing on statistical genomics and molecular epidemiology. [Click here to learn more.](https://www.dropbox.com/scl/fi/1n697k0yb32ryqiqmwryg/Postdoc_MDAndersonEpi_BhattacharyaLab_Fall2023.pdf?rlkey=d1hvegzmzi2njc6ii7y19uexd&dl=0) If interested, email [abhattacharya3@mdanderson.org](mailto:abhattacharya3@mdanderson.org) with a cover letter,
+CV, and information for 2-3 references if interested.
+
 {%
   include button.html
   type="email"
