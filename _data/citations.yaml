@@ -1208,3 +1208,19 @@
   type: contributed
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2023.09.29.23296364
+  title: Interplay Of Serum Bilirubin and Tobacco Smoking with Lung and Head and Neck
+    Cancers in a Diverse, EHR-linked Los Angeles Biobank
+  authors:
+  - Vidhya Venkateswaran
+  - Ella Petter
+  - Kristin Boulier
+  - Yi Ding
+  - Arjun Bhattacharya
+  - Bogdan Pasaniuc
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-03'
+  link: https://doi.org/gstz7j
+  type: featured
+  plugin: sources.py
+  file: sources.yaml
