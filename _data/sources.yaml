@@ -68,5 +68,6 @@
   type: featured
 - id: doi:10.1038/s41588-023-01560-2
   type: featured
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01560-2/MediaObjects/41588_2023_1560_Fig1_HTML.png
 - id: doi:10.1038/s41588-023-01563-z
   type: contributed
