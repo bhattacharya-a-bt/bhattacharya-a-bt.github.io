@@ -1112,9 +1112,9 @@
   type: featured
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2022.08.23.22279134
-  title: Isoform-level transcriptome-wide association uncovers extensive novel genetic
-    risk mechanisms for neuropsychiatric disorders in the human brain
+- id: doi:10.1038/s41588-023-01560-2
+  title: Isoform-level transcriptome-wide association uncovers genetic risk mechanisms
+    for neuropsychiatric disorders in the human brain
   authors:
   - Arjun Bhattacharya
   - Daniel D. Vo
@@ -1124,9 +1124,9 @@
   - Jonatan L. Hervoso
   - Bogdan Pasaniuc
   - Michael J. Gandal
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-08-25'
-  link: https://doi.org/jqg9
+  publisher: Nature Genetics
+  date: '2023-11-30'
+  link: https://doi.org/gs7m7j
   type: featured
   plugin: sources.py
   file: sources.yaml
@@ -1222,5 +1222,45 @@
   date: '2023-10-03'
   link: https://doi.org/gstz7j
   type: featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-023-01563-z
+  title: Multi-ancestry genome-wide association study of cannabis use disorder yields
+    insight into disease biology and public health implications
+  authors:
+  - Daniel F. Levey
+  - Marco Galimberti
+  - Joseph D. Deak
+  - Frank R. Wendt
+  - Arjun Bhattacharya
+  - Dora Koller
+  - Kelly M. Harrington
+  - Rachel Quaden
+  - Emma C. Johnson
+  - Priya Gupta
+  - Mahantesh Biradar
+  - Max Lam
+  - Megan Cooke
+  - Veera M. Rajagopal
+  - Stefany L. L. Empke
+  - Hang Zhou
+  - Yaira Z. Nunez
+  - Henry R. Kranzler
+  - Howard J. Edenberg
+  - Arpana Agrawal
+  - Jordan W. Smoller
+  - Todd Lencz
+  - David M. Hougaard
+  - "Anders D. B\xF8rglum"
+  - Ditte Demontis
+  - J. Michael Gaziano
+  - Michael J. Gandal
+  - Renato Polimanti
+  - Murray B. Stein
+  - Joel Gelernter
+  publisher: Nature Genetics
+  date: '2023-11-20'
+  link: https://doi.org/k5vf
+  type: contributed
   plugin: sources.py
   file: sources.yaml
