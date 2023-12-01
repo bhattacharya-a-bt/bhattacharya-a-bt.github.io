@@ -58,8 +58,6 @@
   type: contributed
 - id: doi:10.1101/2023.02.05.23285493
   type: featured
-- id: doi:10.1038/s41588-023-01560-2
-  type: featured
 - id: doi:10.1101/2022.10.18.22281204
   type: contributed
 - id: doi:10.1101/2022.02.08.22270601
@@ -67,6 +65,8 @@
 - id: doi:10.1101/2021.12.16.21267891
   type: contributed
 - id: doi:10.1101/2023.09.29.23296364
+  type: featured
+- id: doi:10.1038/s41588-023-01560-2
   type: featured
 - id: doi:10.1038/s41588-023-01563-z
   type: contributed
