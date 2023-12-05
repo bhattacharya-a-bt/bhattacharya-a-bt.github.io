@@ -1,6 +1,6 @@
 ---
 name: William Wu
-image: images/williamwu.jpg
+image: images/williamwu.jpeg
 aliases:
   - W. Wu
   - W Wu
