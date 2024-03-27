@@ -4,7 +4,7 @@ image: images/EK_headshot.jpg
 aliases:
   - E. Kilinc
   - E Kilinc
-role: ms
+role: phd
 links:
   email: EKilinc@mdanderson.org
 ---
