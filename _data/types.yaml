@@ -8,7 +8,11 @@ pi:
 
 postdoc:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Postdoctoral Fellow
+
+datasci:
+  icon: fa-solid fa-glasses
+  description: Postdoctoral Data Scientist
 
 phd:
   icon: fa-solid fa-graduation-cap
