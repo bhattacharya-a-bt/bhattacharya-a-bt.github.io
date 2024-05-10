@@ -4,7 +4,7 @@ image: images/sbresnahan.jpg
 aliases:
   - S. Bresnahan
   - S Bresnahan
-role: ms
+role: datasci
 links:
   orcid: 0000-0001-6685-1930
   email: seantbresnahan3@gmail.com
