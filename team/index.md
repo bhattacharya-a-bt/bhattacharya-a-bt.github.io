@@ -12,11 +12,6 @@ developing computational tools to study the
 genetic and molecular epidemiology of cancer risk/outcomes and developmental phenotypes. We value
 collaboration, creativity, and civility.
 
-**Open Postdoctoral Scholar position**
-
-We are currently looking for a Postdoctoral Scholar focusing on statistical genomics and molecular epidemiology. [Click here to learn more](https://bhattacharya-lab.com/images/Postdoc_MDAndersonEpi_BhattacharyaLab_Fall2023.pdf). If interested, email [abhattacharya3@mdanderson.org](mailto:abhattacharya3@mdanderson.org) with a cover letter,
-CV, and information for 2-3 references if interested.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
