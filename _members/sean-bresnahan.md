@@ -1,5 +1,5 @@
 ---
-name: Sean Bresnahan
+name: Sean Bresnahan, PhD
 image: images/sbresnahan.jpg
 aliases:
   - S. Bresnahan
