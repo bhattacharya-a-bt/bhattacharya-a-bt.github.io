@@ -1,5 +1,5 @@
 ---
-name: Arjun Bhattacharya
+name: Arjun Bhattacharya, PhD
 image: images/arjun.jpg
 role: pi
 aliases:
