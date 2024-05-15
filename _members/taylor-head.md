@@ -6,7 +6,7 @@ aliases:
   - T Head
 role: postdoc
 links:
-  orcid: 0000-0001-6685-1930
+  orcid: 0000-0002-1761-1145
   email: s.taylor.head@gmail.com
   github: staylorhead
   google-scholar: https://scholar.google.com/citations?user=Q_bzA70AAAAJ
