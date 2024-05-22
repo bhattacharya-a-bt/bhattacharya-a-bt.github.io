@@ -1096,7 +1096,7 @@
   type: contributed
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.02.05.23285493
+- id: doi:10.1038/s41398-024-02743-z
   title: Polygenic scores for tobacco use provide insights into systemic health risks
     in a diverse EHR-linked biobank in Los Angeles
   authors:
@@ -1106,9 +1106,9 @@
   - Ruth Johnson
   - Arjun Bhattacharya
   - Bogdan Pasaniuc
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-02-08'
-  link: https://doi.org/gsgbbh
+  publisher: Translational Psychiatry
+  date: '2024-01-18'
+  link: https://doi.org/gtv35f
   type: featured
   plugin: sources.py
   file: sources.yaml
