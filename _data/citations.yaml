@@ -1050,52 +1050,6 @@
   type: contributed
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.03.03.23286706
-  title: Cross-ancestry, cell-type-informed atlas of gene, isoform, and splicing regulation
-    in the developing human brain
-  authors:
-  - Cindy Wen
-  - Michael Margolis
-  - Rujia Dai
-  - Pan Zhang
-  - Pawel F Przytycki
-  - Daniel D Vo
-  - Arujun Bhattacharya
-  - Minsoo Kim
-  - Nana Matoba
-  - Ellen Tsai
-  - Celine Hoh
-  - Chuan Jiao
-  - Nil Aygun
-  - Rebecca L Walker
-  - Christos Chatzinakos
-  - Declan Clarke
-  - Henry Pratt
-  - Mette A Peters
-  - Mark Gerstein
-  - Nikolaos P Daskalakis
-  - Zhiping Weng
-  - Andrew E Jaffe
-  - Joel E Kleinman
-  - Thomas M Hyde
-  - Daniel R Weinberger
-  - Nicholas J Bray
-  - Nenad Sestan
-  - Daniel H Geschwind
-  - Kathryn Roeder
-  - Alexander Gusev
-  - Bogdan Pasaniuc
-  - Jason L Stein
-  - Michael I Love
-  - Katherine S Pollard
-  - Chunyu Liu
-  - Michael J Gandal
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-03-06'
-  link: https://doi.org/j4nh
-  type: contributed
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1038/s41398-024-02743-z
   title: Polygenic scores for tobacco use provide insights into systemic health risks
     in a diverse EHR-linked biobank in Los Angeles
