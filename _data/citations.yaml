@@ -1453,7 +1453,7 @@
   publisher: Science
   date: '2024-05-24'
   link: https://doi.org/gtwc6c
-  type: contributed
+  type: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciadv.adn7655
