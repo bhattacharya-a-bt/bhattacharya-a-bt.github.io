@@ -1488,3 +1488,49 @@
   type: contributed
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.xcrm.2024.101430
+  title: Novel ancestry-specific primary open-angle glaucoma loci and shared biology
+    with vascular mechanisms and cell proliferation
+  authors:
+  - Valeria Lo Faro
+  - Arjun Bhattacharya
+  - Wei Zhou
+  - Dan Zhou
+  - Ying Wang
+  - "Kristi L\xE4ll"
+  - Masahiro Kanai
+  - Esteban Lopera-Maya
+  - Peter Straub
+  - Priyanka Pawar
+  - Ran Tao
+  - Xue Zhong
+  - Shinichi Namba
+  - Serena Sanna
+  - Ilja M. Nolte
+  - Yukinori Okada
+  - Nathan Ingold
+  - Stuart MacGregor
+  - Harold Snieder
+  - Ida Surakka
+  - Jonathan Shortt
+  - Chris Gignoux
+  - Nicholas Rafaels
+  - Kristy Crooks
+  - Anurag Verma
+  - Shefali S. Verma
+  - Lindsay Guare
+  - Daniel J. Rader
+  - Cristen Willer
+  - Alicia R. Martin
+  - Milam A. Brantley
+  - Eric R. Gamazon
+  - Nomdo M. Jansonius
+  - Karen Joos
+  - Nancy J. Cox
+  - Jibril Hirbo
+  publisher: Cell Reports Medicine
+  date: '2024-02-01'
+  link: https://doi.org/gts6n7
+  type: contributed
+  plugin: sources.py
+  file: sources.yaml
