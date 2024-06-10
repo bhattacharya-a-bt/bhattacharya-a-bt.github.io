@@ -1122,45 +1122,6 @@
   type: featured
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2021.12.16.21267891
-  title: Genome-wide association meta-analysis identifies novel ancestry-specific
-    primary open-angle glaucoma loci and shared biology with vascular mechanisms and
-    cell proliferation
-  authors:
-  - Valeria Lo Faro
-  - Arjun Bhattacharya
-  - Wei Zhou
-  - Dan Zhou
-  - Ying Wang
-  - "Kristi L\xE4ll"
-  - Masahiro Kanai
-  - Esteban Lopera-Maya
-  - Peter Straub
-  - Priyanka Pawar
-  - Ran Tao
-  - Xue Zhong
-  - Shinichi Namba
-  - Serena Sanna
-  - Ilja M. Nolte
-  - Yukinori Okada
-  - Nathan Ingold
-  - Stuart MacGregor
-  - Harold Snieder
-  - Ida Surakka
-  - Cristen Willer
-  - Alicia R. Martin
-  - Milam A. Brantley
-  - Eric R. Gamazon
-  - Nomdo M. Jansonius
-  - Karen Joos
-  - Nancy J. Cox
-  - Jibril Hirbo
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-12-17'
-  link: https://doi.org/gsgbbt
-  type: contributed
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1101/2023.09.29.23296364
   title: Interplay Of Serum Bilirubin and Tobacco Smoking with Lung and Head and Neck
     Cancers in a Diverse, EHR-linked Los Angeles Biobank
