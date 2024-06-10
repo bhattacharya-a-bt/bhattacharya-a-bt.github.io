@@ -8,7 +8,8 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 The Bhattacharya Lab for Computational Genomics is a part of [MD Anderson Cancer Center](https://www.mdanderson.org/)'s
-[Department of Epidemiology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html).
+[Department of Epidemiology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html) and affiliated with
+the [Institute for Data Science in Oncology](https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html).
 For prospective graduate students interested in The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, please [visit here and apply to the program directly](https://gsbs.uth.edu/about/index.htm).
 If you want to join us
 as a graduate student in GSBS, a postdoctoral researcher, or research scientist/associate, send an email to
