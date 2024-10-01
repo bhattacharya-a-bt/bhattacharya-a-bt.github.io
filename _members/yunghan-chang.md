@@ -4,7 +4,7 @@ image: images/yunhangchang.jpg
 aliases:
   - Y. Chan
   - Y Chan
-role: ms
+role: phd
 links:
   orcid: 0009-0004-3041-0390
   email: yhc1998@g.ucla.edu
