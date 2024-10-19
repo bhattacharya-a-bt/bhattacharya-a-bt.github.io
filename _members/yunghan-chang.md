@@ -10,4 +10,4 @@ links:
   email: yhc1998@g.ucla.edu
 ---
 
-Yunghan is a second-year master's student in the Department of Biostatistics at UCLA, co-advised by [Bogdan Pasaniuc](https://bogdan.dgsom.ucla.edu/pages/). She earned a B.S. in Agronomy with a specialization in Biometrics from National Taiwan University. Her research interests are in developing statistical methods for genetic association studies in admixed populations. In her free time, she enjoy movies, watching basketball and baseball, and spending time with her dog.
+Yunghan is a PhD in Quantitative Sciences at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences. She earned an M.S. in Biostatistics from UCLA and a B.S. in Agronomy with a specialization in Biometrics from National Taiwan University. Her research interests are in developing statistical methods for genetic association studies in admixed populations. In her free time, she enjoy movies, watching basketball and baseball, and spending time with her dog.
