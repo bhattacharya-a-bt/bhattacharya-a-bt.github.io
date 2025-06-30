@@ -1531,3 +1531,25 @@
   type: featured
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2025.06.26.661362
+  title: Long-read transcriptome assembly reveals vast isoform diversity in the placenta
+    associated with metabolic and endocrine function
+  authors:
+  - Sean T Bresnahan
+  - Hannah Yong
+  - William H Wu
+  - Sierra Lopez
+  - Jerry Kok Yen Chan
+  - "Fr\xE9d\xE9rique White"
+  - "Pierre-\xC9tienne Jacques"
+  - Marie-France Hivert
+  - Shiao-Yng Chan
+  - Michael I Love
+  - Jonathan Y Huang
+  - Arjun Bhattacharya
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-28'
+  link: https://doi.org/g9rtjk
+  type: featured
+  plugin: sources.py
+  file: sources.yaml
