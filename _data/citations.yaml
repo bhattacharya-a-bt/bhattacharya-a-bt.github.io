@@ -1512,22 +1512,22 @@
   type: contributed
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.10.29.24316388
+- id: doi:10.1038/s41416-025-03141-y
   title: Isoform-level analyses of 6 cancers uncover extensive genetic risk mechanisms
     undetected at the gene-level
   authors:
   - Yung-Han Chang
   - Sean T. Bresnahan
   - S. Taylor Head
-  - Tabitha Harrison
+  - Tabitha A. Harrison
   - Yao Yu
   - Chad D. Huff
   - Bogdan Pasaniuc
   - "Sara Lindstr\xF6m"
   - Arjun Bhattacharya
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-10-30'
-  link: https://doi.org/g9pwxz
+  publisher: British Journal of Cancer
+  date: '2025-08-07'
+  link: https://doi.org/g9xspw
   type: featured
   plugin: sources.py
   file: sources.yaml
