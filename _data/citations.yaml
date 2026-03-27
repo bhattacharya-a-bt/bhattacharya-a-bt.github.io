@@ -173,8 +173,6 @@
   - Masahiro Kanai
   - Roy Elzur
   - Wei Zhou
-  - Mark J. Daly
-  - Hilary K. Finucane
   - Wei Zhou
   - Masahiro Kanai
   - Kuan-Han H. Wu
@@ -350,6 +348,8 @@
   - Cristen J. Willer
   - Mark J. Daly
   - Benjamin M. Neale
+  - Mark J. Daly
+  - Hilary K. Finucane
   publisher: Cell Genomics
   date: '2022-12-01'
   link: https://doi.org/gsgb39
@@ -382,13 +382,6 @@
   - Jordan W. Smoller
   - Jasmina Uzunovic
   - Brooke N. Wolford
-  - Cristen Willer
-  - Eric R. Gamazon
-  - Nancy J. Cox
-  - Ida Surakka
-  - Yukinori Okada
-  - Alicia R. Martin
-  - Jibril Hirbo
   - Wei Zhou
   - Masahiro Kanai
   - Kuan-Han H. Wu
@@ -509,6 +502,13 @@
   - Cristen J. Willer
   - Mark J. Daly
   - Benjamin M. Neale
+  - Cristen Willer
+  - Eric R. Gamazon
+  - Nancy J. Cox
+  - Ida Surakka
+  - Yukinori Okada
+  - Alicia R. Martin
+  - Jibril Hirbo
   publisher: Cell Genomics
   date: '2023-01-01'
   link: https://doi.org/grtwk3
@@ -1096,7 +1096,7 @@
   - Chloe X. Yap
   - Hua Zhou
   - Michael J. Gandal
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-10-21'
   link: https://doi.org/jqg7
   type: contributed
@@ -1116,7 +1116,7 @@
   - Michael J. Gandal
   - Bogdan Pasaniuc
   - Arjun Bhattacharya
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-02-09'
   link: https://doi.org/gsgbbp
   type: featured
@@ -1132,7 +1132,7 @@
   - Yi Ding
   - Arjun Bhattacharya
   - Bogdan Pasaniuc
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-10-03'
   link: https://doi.org/gstz7j
   type: featured
@@ -1532,8 +1532,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.06.26.661362
-  title: Long-read transcriptome assembly reveals vast isoform diversity in the placenta
-    associated with metabolic and endocrine function
+  title: Long-read transcriptome assembly reveals vast transcriptional complexity
+    in the placenta associated with metabolic and endocrine function
   authors:
   - Sean T. Bresnahan
   - Hannah Yong
@@ -1547,7 +1547,7 @@
   - Michael I. Love
   - Jonathan Y. Huang
   - Arjun Bhattacharya
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-06-28'
   link: https://doi.org/g9rtjk
   type: featured
@@ -1566,7 +1566,7 @@
   - Saiju Pyarajan
   - Arjun Bhattacharya
   - Ryan Sun
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-10-03'
   link: https://doi.org/g96f7x
   type: featured
