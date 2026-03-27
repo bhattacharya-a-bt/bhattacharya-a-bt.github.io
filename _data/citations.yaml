@@ -1644,38 +1644,6 @@
   publisher: openRxiv
   date: '2025-11-27'
   link: https://doi.org/hbt36s
-  type: contributed
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1101/2025.11.25.25341027
-  title: Cell-type aware transcriptome-wide association study of mammographic density
-    phenotypes
-  authors:
-  - Adriana Sistig
-  - Joseph H Rothstein
-  - Sinan Zhu
-  - S Taylor Head
-  - Yung-Han Chang
-  - Ninah Achacoso
-  - Stacey E Alexeeff
-  - Vignesh Arasu
-  - Tejomay Gadgil
-  - Lawrence D Gerstley
-  - Laurie R Margolies
-  - Lori C Sakoda
-  - Li Shen
-  - Cara L Smith Gueye
-  - "Marvella Villase\xF1or"
-  - Mark Westley
-  - Arjun Bhattacharya
-  - Robert J Klein
-  - Laurel A Habel
-  - Xiaoyu Song
-  - Pei Wang
-  - Weiva Sieh
-  publisher: openRxiv
-  date: '2025-11-27'
-  link: https://doi.org/hbt36s
   type: featured
   plugin: sources.py
   file: sources.yaml
