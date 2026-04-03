@@ -1,6 +1,6 @@
 ---
 name: Charis Xiong
-image: images/vihan.jpg
+image: images/charis.jpg
 aliases:
   - C. Xiong
   - C Xiong
