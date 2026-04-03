@@ -1,6 +1,6 @@
 ---
 name: Sean Bresnahan, PhD
-image: images/sbresnahan.jpg
+image: images/sean_fancy.jpg
 aliases:
   - S. Bresnahan
   - S Bresnahan
