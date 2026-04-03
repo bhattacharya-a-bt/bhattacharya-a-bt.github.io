@@ -1531,12 +1531,13 @@
   type: featured
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.06.26.661362
-  title: Long-read transcriptome assembly reveals vast transcriptional complexity
-    in the placenta associated with metabolic and endocrine function
+- id: doi:10.1038/s41467-026-71303-4
+  title: Long-read assembly reveals vast transcriptional complexity in the placenta
+    associated with metabolic and endocrine function
   authors:
   - Sean T. Bresnahan
-  - Hannah Yong
+  - Hannah E. J. Yong
+  - Aryun Nemani
   - William H. Wu
   - Sierra Lopez
   - Jerry Kok Yen Chan
@@ -1547,9 +1548,9 @@
   - Michael I. Love
   - Jonathan Y. Huang
   - Arjun Bhattacharya
-  publisher: openRxiv
-  date: '2025-06-28'
-  link: https://doi.org/g9rtjk
+  publisher: Nature Communications
+  date: '2026-04-02'
+  link: https://doi.org/hbvt62
   type: featured
   plugin: sources.py
   file: sources.yaml
