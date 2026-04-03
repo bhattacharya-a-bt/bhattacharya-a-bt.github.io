@@ -1644,6 +1644,21 @@
   publisher: openRxiv
   date: '2025-11-27'
   link: https://doi.org/hbt36s
+  type: contributed
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.08.20.671303
+  title: Quantification method affects replicability of eQTL analysis, colocalization,
+    and TWAS
+  authors:
+  - S. Taylor Head
+  - Sean T. Bresnahan
+  - Nolan Cole
+  - William Wu
+  - Arjun Bhattacharya
+  publisher: openRxiv
+  date: '2025-08-24'
+  link: https://doi.org/hbvt55
   type: featured
   plugin: sources.py
   file: sources.yaml
