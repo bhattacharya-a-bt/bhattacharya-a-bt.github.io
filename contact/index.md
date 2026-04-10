@@ -44,8 +44,8 @@ as a graduate student in GSBS, a postdoctoral researcher, or research scientist/
 
 {%
   include figure.html
-  image="images/pickens.jpeg"
-  caption="Pickens Tower, MD Anderson Cancer Center"
+  image="images/1mc.jpg"
+  caption="1MC, MD Anderson Cancer Center"
 %}
 
 {% endcapture %}
@@ -55,7 +55,9 @@ as a graduate student in GSBS, a postdoctoral researcher, or research scientist/
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Located in Pickens Tower in the Texas Medical Center
+1MC.3486
+7007 Bertner Avenue
+Houston, TX 77030
 {% endcapture %}
 
 {% capture col2 %}
