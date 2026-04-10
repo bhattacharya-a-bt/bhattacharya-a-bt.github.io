@@ -55,8 +55,8 @@ as a graduate student in GSBS, a postdoctoral researcher, or research scientist/
 {% include section.html dark=true %}
 
 {% capture col1 %}
-1MC.3486
-7007 Bertner Avenue
+1MC.3486  
+7007 Bertner Avenue  
 Houston, TX 77030
 {% endcapture %}
 
