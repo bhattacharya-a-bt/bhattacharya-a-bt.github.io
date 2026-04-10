@@ -62,7 +62,8 @@ Our goals are two-fold: (1) ask and answer important questions about cancer and 
 
 Meet our team that's committed to learning and growing in a healthy, collaborative environment.
 [Reach out if you're interested in joining us!](contact) We're looking for epidemiologists, statisticians,
-data scientists, biologists, and clinician-scientists at all levels.
+data scientists, biologists, and clinician-scientists at all levels. Located conveniently near Helix Park and the TMC3 Collaborative Building,
+our group embraces collaboration within the Cancer Prevention & Population Sciences Division and other departments and institutions.
 
 {%
   include button.html
@@ -77,7 +78,7 @@ data scientists, biologists, and clinician-scientists at all levels.
 
 {%
   include feature.html
-  image="images/pickens.jpeg"
+  image="images/helixpark.jpg"
   link="team"
   title="Our growing team"
   text=text
