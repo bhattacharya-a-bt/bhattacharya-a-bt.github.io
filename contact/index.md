@@ -25,7 +25,7 @@ as a graduate student in GSBS, a postdoctoral researcher, or research scientist/
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Dan+L+Duncan+Building/@29.7045024,-95.4011062,15z/data=!4m2!3m1!1s0x0:0x78e98d81933e68bc?sa=X&ved=2ahUKEwiv3uj5tJSBAxXgnGoFHZITCOEQ_BJ6BAhNEAA&ved=2ahUKEwiv3uj5tJSBAxXgnGoFHZITCOEQ_BJ6BAhXEAg"
+  link="https://www.google.com/maps/search/1mc/@29.7012618,-95.398209,17z?entry=s&sa=X&ved=1t%3A199789"
 %}
 
 {% include section.html %}
