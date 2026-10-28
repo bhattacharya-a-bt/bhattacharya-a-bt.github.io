@@ -15,19 +15,9 @@ collaboration, creativity, and civility.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-
-### Postdoctoral researchers
-
 {% include list.html data="members" component="portrait" filters="role: ^(postdoc|datasci)$" %}
-
-### Graduate students
-
 {% include list.html data="members" component="portrait" filters="role: ^(phd|ms)$" %}
-
-### Undergraduate students
-
 {% include list.html data="members" component="portrait" filters="role: ^undergrad$" %}
-
 {% include list.html data="members" component="portrait" filters="role: ^(?!(pi|postdoc|datasci|phd|ms|undergrad)$)" %}
 
 {% include section.html background="images/anderson_whole.jpeg" dark=true %}
