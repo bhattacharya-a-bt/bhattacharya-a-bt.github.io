@@ -81,11 +81,19 @@
   type: featured
 - id: doi:10.1101/2025.10.02.25337130
   type: featured
-- id: doi:10.64898/2026.03.23.712893
+- id: doi:10.1021/ehp.6c00646
   type: featured
 - id: doi:10.64898/2026.03.22.713514
   type: featured
 - id: doi:10.1101/2025.11.25.25341027
   type: contributed
-- id: doi:10.1101/2025.08.20.671303
+- id: doi:10.1038/s41588-026-02827-0
   type: featured
+- id: doi:10.64898/2026.08.26.26361466
+  type: featured
+- id: doi:10.1016/j.ajhg.2024.06.001
+  type: contributed
+- id: doi:10.1002/cam4.7212
+  type: contributed
+- id: doi:10.1093/jnci/djag154
+  type: contributed
