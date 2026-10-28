@@ -104,12 +104,14 @@
     width: 96px;
   }
 }
-.citation-title a {
+.citation-title a,
+a.citation-title {
   color: inherit;
   text-decoration: none;
 }
 
-.citation-title a:hover {
+.citation-title a:hover,
+a.citation-title:hover {
   text-decoration: underline;
 }
 
