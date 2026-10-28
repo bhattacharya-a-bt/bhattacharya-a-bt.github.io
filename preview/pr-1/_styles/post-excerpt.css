@@ -1,0 +1,37 @@
+.post-excerpt {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 20px;
+  margin: 0;
+  padding: 28px 0;
+  border-top: 1px solid var(--light-gray);
+  background: none;
+  text-align: left;
+}
+
+.post-excerpt > * {
+  margin: 0 !important;
+}
+
+.post-excerpt > a:first-child {
+  width: 100%;
+  font-family: var(--heading);
+  font-size: var(--large);
+  font-weight: var(--bold);
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.post-excerpt > a:first-child:hover {
+  text-decoration: underline;
+}
+
+.post-excerpt > div {
+  justify-content: flex-start;
+}
+
+.post-excerpt > p {
+  width: 100%;
+}
+
+/*# sourceMappingURL=post-excerpt.css.map */

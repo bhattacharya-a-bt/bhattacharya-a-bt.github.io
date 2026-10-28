@@ -1,0 +1,50 @@
+:root {
+  --brand-deep: #004242;
+  --brand-steel: #5b88a7;
+}
+
+[data-dark=false] {
+  --primary: #2f6b8c;
+  --secondary: #004242;
+  --text: #1b2424;
+  --background: #ffffff;
+  --background-alt: #f3f6f5;
+  --light-gray: #dbe3e1;
+  --gray: #5f6f6d;
+  --overlay: #00000014;
+  --text-second: #ffffff10;
+  --brand-ink: #004242;
+}
+
+[data-dark=true] {
+  --primary: #8fb6cf;
+  --secondary: #7cc2b8;
+  --text: #e6eeec;
+  --background: #0d1717;
+  --background-alt: #122020;
+  --light-gray: #26393a;
+  --gray: #93a5a3;
+  --overlay: #ffffff10;
+  --brand-ink: #d9ebe8;
+}
+
+:root {
+  --title: "Archivo", sans-serif;
+  --heading: "Archivo", sans-serif;
+  --body: "Newsreader", serif;
+  --code: "JetBrains Mono", monospace;
+  --small: 0.85rem;
+  --medium: 1.1rem;
+  --large: 1.3rem;
+  --xl: 1.75rem;
+  --xxl: 2.6rem;
+  --thin: 300;
+  --regular: 400;
+  --semi-bold: 600;
+  --bold: 800;
+  --spacing: 1.65;
+  --rounded: 2px;
+  --shadow: none;
+}
+
+/*# sourceMappingURL=-theme.css.map */

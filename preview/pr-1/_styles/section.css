@@ -1,0 +1,61 @@
+section {
+  padding: 64px max(32px, (100% - 1040px) / 2);
+  transition-property: background, color;
+}
+
+section[data-size=wide] {
+  padding: 64px 32px;
+}
+
+section[data-size=full] {
+  padding: 0;
+}
+
+section[data-size=full] > * {
+  margin: 0;
+  border-radius: 0;
+}
+
+section[data-size=full] img {
+  border-radius: 0;
+}
+
+main > section:last-of-type {
+  flex-grow: 1;
+}
+
+main > section {
+  background: var(--background);
+}
+
+main > section + section {
+  border-top: 1px solid var(--light-gray);
+}
+
+main > section[data-dark=true] {
+  background: var(--brand-deep);
+  border-top: none;
+}
+
+main > section[data-dark=true] + section {
+  border-top: none;
+}
+
+main > section[data-dark=true] :where(h1, h2, h3, h4) {
+  color: #ffffff;
+}
+
+main > section[data-dark=true] a:not(.button) {
+  color: #bcd6e6;
+}
+
+@media (max-width: 600px) {
+  section {
+    padding: 44px 20px;
+  }
+}
+main > section[data-dark=true] p {
+  max-width: 68ch;
+}
+
+/*# sourceMappingURL=section.css.map */

@@ -1,0 +1,91 @@
+.portrait-wrapper {
+  display: contents;
+}
+
+.portrait {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 0 28px 40px 0;
+  width: 200px;
+  max-width: 100%;
+  vertical-align: top;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.portrait[data-style=small] {
+  width: 120px;
+}
+
+.portrait[data-style=tiny] {
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
+  width: unset;
+  margin: 0;
+}
+
+.portrait-image {
+  width: 100%;
+  aspect-ratio: 4/5;
+  border-radius: var(--rounded);
+  object-fit: cover;
+  background: var(--background-alt);
+  transition: filter 0.3s;
+}
+
+a.portrait:hover .portrait-image {
+  filter: brightness(0.92);
+}
+
+.portrait[data-style=tiny] .portrait-image {
+  width: 40px;
+  aspect-ratio: 1/1;
+  border-radius: 999px;
+}
+
+.portrait[data-style=tiny] .portrait-role {
+  display: none;
+}
+
+.portrait-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  line-height: 1.35;
+}
+
+.portrait-name {
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  color: var(--secondary);
+}
+
+a.portrait:hover .portrait-name {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.portrait-role {
+  font-family: var(--code);
+  font-size: 12px;
+  color: var(--gray);
+}
+
+.portrait-role .icon {
+  display: none;
+}
+
+@media (max-width: 520px) {
+  .portrait {
+    width: calc(50% - 12px);
+    margin-right: 20px;
+  }
+  .portrait-wrapper:nth-child(even) .portrait {
+    margin-right: 0;
+  }
+}
+
+/*# sourceMappingURL=portrait.css.map */

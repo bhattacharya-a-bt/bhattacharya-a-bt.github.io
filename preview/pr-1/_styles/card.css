@@ -1,0 +1,76 @@
+.card {
+  display: inline-flex;
+  align-items: stretch;
+  flex-direction: column;
+  width: 320px;
+  max-width: 100%;
+  margin: 0 20px 24px 0;
+  background: var(--background);
+  border: 1px solid var(--light-gray);
+  border-radius: var(--rounded);
+  overflow: hidden;
+  vertical-align: top;
+  text-align: left;
+  transition-property: border-color;
+}
+
+.card:hover {
+  border-color: var(--brand-steel);
+}
+
+.card[data-style=small] {
+  width: 240px;
+}
+
+/* project cards mostly show method schematics: keep them whole */
+.card-image {
+  border-bottom: 1px solid var(--light-gray);
+  background: #ffffff;
+}
+
+.card-image img {
+  display: block;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+  width: 100%;
+  padding: 12px;
+}
+
+.card-text {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 100%;
+  padding: 18px 20px 20px;
+}
+
+.card-text > *,
+.card-text > .tags {
+  margin: 0;
+}
+
+.card-title {
+  font-family: var(--heading);
+  font-weight: var(--bold);
+  color: var(--secondary);
+}
+
+.card-subtitle {
+  margin-top: -8px;
+  font-style: italic;
+  color: var(--gray);
+}
+
+.card-title a,
+a.card-title {
+  color: inherit;
+  text-decoration: none;
+}
+
+.card-text p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/*# sourceMappingURL=card.css.map */

@@ -1,0 +1,22 @@
+ul,
+ol {
+  margin: 18px 0;
+  padding-left: 24px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+li {
+  margin: 6px 0;
+  padding-left: 6px;
+  text-align: left;
+  line-height: var(--spacing);
+}
+
+li::marker {
+  color: var(--brand-steel);
+}
+
+/*# sourceMappingURL=list.css.map */

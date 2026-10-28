@@ -1,0 +1,47 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--heading);
+  line-height: 1.15;
+  text-align: left;
+  color: var(--secondary);
+}
+
+h1 {
+  margin: 24px 0 24px 0;
+  font-size: var(--xxl);
+  font-weight: var(--bold);
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  margin: 48px 0 20px 0;
+  font-size: var(--xl);
+  font-weight: var(--bold);
+  letter-spacing: -0.01em;
+}
+
+h3 {
+  margin: 36px 0 14px 0;
+  font-size: var(--large);
+  font-weight: var(--semi-bold);
+}
+
+h4 {
+  margin: 28px 0 12px 0;
+  font-size: var(--medium);
+  font-weight: var(--semi-bold);
+}
+
+section > h2:first-child,
+section > h1:first-child {
+  margin-top: 0;
+}
+
+/* page icons in headings read as template chrome; the type carries the page */
+:where(h1, h2, h3, h4) > .icon {
+  display: none;
+}
+
+/*# sourceMappingURL=heading.css.map */
