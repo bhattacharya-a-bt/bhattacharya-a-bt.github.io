@@ -4,6 +4,11 @@ subtitle: Computational genetic and molecular epidemiology for cancer and develo
 header: images/anderson_whole.jpeg
 footer: images/txmedcenter.jpeg
 
+# header shows the wordmark (images/logo.svg) instead of title text
+logo-text: false
+# neither true nor false: header follows the page light/dark mode
+header-dark: auto
+
 # site social media and other links
 links:
   email: bhattacharya.a.bt@gmail.com
