@@ -1573,27 +1573,31 @@
   type: featured
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.64898/2026.03.23.712893
-  title: Natural variation in transplacental transfer efficiency exposes distinct
-    transcriptional network architectures of PFAS effects on birth weight and gestational
-    age
+- id: doi:10.1021/ehp.6c00646
+  title: 'Natural Variation in
+
+    Transplacental Transfer Efficiency
+
+    Reveals Distinct Transcriptional Network Architectures of PFAS Effects
+
+    on Birth Weight and Gestational Age'
   authors:
-  - Sean T Bresnahan
-  - Hannah E J Yong
-  - Maggie G Drelichman
-  - Soraya N Campbell
-  - Ance E Trapse
-  - Gabriel R Romo
-  - Christopher M Cellini
+  - Sean T. Bresnahan
+  - Hannah E. J. Yong
+  - Maggie G. Drelichman
+  - Soraya N. Campbell
+  - Ance E. Trapse
+  - Gabriel R. Romo
+  - Christopher M. Cellini
   - Sierra Lopez
-  - Jerry K Chan
+  - Jerry Kok Yen Chan
   - Shiao-Yng Chan
-  - Elana R Elkin
+  - Elana R. Elkin
   - Arjun Bhattacharya
-  - Jonathan Y Huang
-  publisher: openRxiv
-  date: '2026-03-25'
-  link: https://doi.org/hbt36q
+  - Jonathan Y. Huang
+  publisher: Environmental Health Perspectives
+  date: '2026-10-19'
+  link: https://doi.org/hcqdbz
   type: featured
   plugin: sources.py
   file: sources.yaml
@@ -1608,7 +1612,7 @@
   - Sean T. Bresnahan
   - Joseph H. Rothstein
   - Weiva Sieh
-  - Sara Lindstroem
+  - "Sara Lindstr\xF6m"
   - Arjun Bhattacharya
   publisher: openRxiv
   date: '2026-03-23'
@@ -1648,18 +1652,123 @@
   type: contributed
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.08.20.671303
-  title: Quantification method affects replicability of eQTL analysis, colocalization,
+- id: doi:10.1038/s41588-026-02827-0
+  title: Quantification method affects replicability of eQTL analysis, colocalization
     and TWAS
   authors:
   - S. Taylor Head
   - Sean T. Bresnahan
-  - Nolan Cole
+  - Yung-Han Chang
+  - Vihan M. Shah
+  - Nolan R. Cole
   - William Wu
   - Arjun Bhattacharya
-  publisher: openRxiv
-  date: '2025-08-24'
-  link: https://doi.org/hbvt55
+  publisher: Nature Genetics
+  date: '2026-10-26'
+  link: https://doi.org/hcqdb2
   type: featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.64898/2026.08.26.26361466
+  title: 'ICONIC: An R Package for Integrating Instrumental Variable- and Negative-Control-Informed
+    Causal Discovery and Diagnostics in Multiomic Studies'
+  authors:
+  - Sean T. Bresnahan
+  - Charis Xiong
+  - Taylor Head
+  - Yung-Han Chang
+  - Arjun Bhattacharya
+  - Jonathan Y. Huang
+  publisher: openRxiv
+  date: '2026-08-31'
+  link: https://doi.org/hcqdb3
+  type: featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ajhg.2024.06.001
+  title: Splicing-specific transcriptome-wide association uncovers genetic mechanisms
+    for schizophrenia
+  authors:
+  - Jonatan L. Hervoso
+  - Kofi Amoah
+  - Jack Dodson
+  - Mudra Choudhury
+  - Arjun Bhattacharya
+  - Giovanni Quinones-Valdez
+  - Bogdan Pasaniuc
+  - Xinshu Xiao
+  publisher: The American Journal of Human Genetics
+  date: '2024-08-01'
+  link: https://doi.org/hcqdb4
+  type: contributed
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cam4.7212
+  title: "Enhanced\n                    <scp>CTLA</scp>\n                    \u2010\
+    4 blockade anti\u2010tumor immunity with\n                    <scp>APG</scp>\n\
+    \                    \u2010157 combination in a murine head and neck cancer"
+  authors:
+  - Daniel Sanghoon Shin
+  - Saroj Basak
+  - Mysore S. Veena
+  - "Bego\xF1a Comin\u2010Anduix"
+  - Arjun Bhattacharya
+  - Tien S. Dong
+  - Albert Ko
+  - Philip Han
+  - Jonathan Jacobs
+  - Neda A. Moatamed
+  - Luis Avila
+  - Matteo Pellegrini
+  - Marilene Wang
+  - Eri S. Srivatsan
+  publisher: Cancer Medicine
+  date: '2024-04-30'
+  link: https://doi.org/hcqdb5
+  type: contributed
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/jnci/djag154
+  title: Comparative 10-year performance of mammography artificial intelligence, polygenic,
+    and clinical breast cancer risk models in the Kaiser Permanente Research Bank
+  authors:
+  - Vignesh A Arasu
+  - Tejomay Gadgil
+  - Joseph H Rothstein
+  - Stacey E Alexeeff
+  - Ninah S Achacoso
+  - Arjun Bhattacharya
+  - Jason B Cord
+  - Laura J Esserman
+  - Woodward Galbraith
+  - Lawrence D Gerstley
+  - Susan Taylor Head
+  - Nola M Hylton
+  - Lawrence H Kushi
+  - Catherine Lee
+  - Amethyst D Leimpeter
+  - Donald A Lewis
+  - Vincent Liu
+  - Ben J Marafino
+  - Laurie R Margolies
+  - Daniel A Navarro
+  - Albert Pu
+  - Lori C Sakoda
+  - Jun Shan
+  - Yiwey Shieh
+  - Adriana Sistig
+  - Cara L Smith Gueye
+  - "Laura van\u2019t Veer"
+  - "Marvella Villase\xF1or"
+  - Mark Westley
+  - Dorota J Wisner
+  - Jeffrey A Tice
+  - Li Shen
+  - Laurel A Habel
+  - Weiva Sieh
+  publisher: 'JNCI: Journal of the National Cancer Institute'
+  date: '2026-06-22'
+  link: https://doi.org/hcqdb6
+  type: contributed
   plugin: sources.py
   file: sources.yaml
