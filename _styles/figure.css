@@ -1,10 +1,10 @@
 .figure {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
   gap: 10px;
-  margin: 40px 0;
+  margin: 32px 0;
 }
 
 .figure-image {
@@ -14,12 +14,13 @@
 .figure-image img {
   border-radius: var(--rounded);
   overflow: hidden;
-  box-shadow: var(--shadow);
 }
 
 .figure-caption {
-  font-style: italic;
-  text-align: center;
+  font-family: var(--code);
+  font-size: 12.5px;
+  color: var(--gray);
+  text-align: left;
 }
 
 /*# sourceMappingURL=figure.css.map */

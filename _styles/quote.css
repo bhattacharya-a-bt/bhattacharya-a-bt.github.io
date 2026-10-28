@@ -1,7 +1,8 @@
 blockquote {
-  margin: 20px 0;
-  padding: 10px 20px;
-  border-left: solid 4px var(--light-gray);
+  margin: 24px 0;
+  padding: 4px 0 4px 20px;
+  border-left: solid 3px var(--brand-steel);
+  font-style: italic;
 }
 
 blockquote > *:first-child {

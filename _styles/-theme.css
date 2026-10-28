@@ -1,42 +1,50 @@
+:root {
+  --brand-deep: #004242;
+  --brand-steel: #5b88a7;
+}
+
 [data-dark=false] {
-  --primary: #5b8aa9;
+  --primary: #2f6b8c;
   --secondary: #004242;
-  --text: #000000;
+  --text: #1b2424;
   --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --overlay: #00000020;
+  --background-alt: #f3f6f5;
+  --light-gray: #dbe3e1;
+  --gray: #5f6f6d;
+  --overlay: #00000014;
   --text-second: #ffffff10;
+  --brand-ink: #004242;
 }
 
 [data-dark=true] {
-  --primary: #0ea5e9;
-  --secondary: #075985;
-  --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
+  --primary: #8fb6cf;
+  --secondary: #7cc2b8;
+  --text: #e6eeec;
+  --background: #0d1717;
+  --background-alt: #122020;
+  --light-gray: #26393a;
+  --gray: #93a5a3;
   --overlay: #ffffff10;
+  --brand-ink: #d9ebe8;
 }
 
 :root {
-  --title: "Hind Siliguri", sans-serif;
-  --heading: "Hind Siliguri", sans-serif;
-  --body: "Hind Siliguri", sans-serif;
-  --code: "Courier Prime", monospace;
-  --medium: 1rem;
-  --large: 1.2rem;
-  --xl: 1.4rem;
-  --xxl: 1.6rem;
-  --thin: 200;
+  --title: "Archivo", sans-serif;
+  --heading: "Archivo", sans-serif;
+  --body: "Newsreader", serif;
+  --code: "JetBrains Mono", monospace;
+  --small: 0.85rem;
+  --medium: 1.1rem;
+  --large: 1.3rem;
+  --xl: 1.75rem;
+  --xxl: 2.6rem;
+  --thin: 300;
   --regular: 400;
-  --semi-bold: 500;
-  --bold: 600;
-  --spacing: 2;
-  --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --semi-bold: 600;
+  --bold: 800;
+  --spacing: 1.65;
+  --rounded: 2px;
+  --shadow: none;
 }
 
 /*# sourceMappingURL=-theme.css.map */

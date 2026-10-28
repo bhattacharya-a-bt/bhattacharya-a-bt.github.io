@@ -1,11 +1,13 @@
 a {
   color: var(--primary);
-  transition-property: color;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition-property: color, text-decoration-color;
   overflow-wrap: break-word;
 }
 
 a:hover {
-  color: var(--text);
+  color: var(--secondary);
 }
 
 a:not([href]) {

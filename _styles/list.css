@@ -1,7 +1,7 @@
 ul,
 ol {
-  margin: 20px 0;
-  padding-left: 40px;
+  margin: 18px 0;
+  padding-left: 24px;
 }
 
 ul {
@@ -9,10 +9,14 @@ ul {
 }
 
 li {
-  margin: 5px 0;
-  padding-left: 10px;
-  text-align: justify;
+  margin: 6px 0;
+  padding-left: 6px;
+  text-align: left;
   line-height: var(--spacing);
+}
+
+li::marker {
+  color: var(--brand-steel);
 }
 
 /*# sourceMappingURL=list.css.map */
