@@ -17,8 +17,8 @@ collaboration, creativity, and civility.
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^postdoc$" %}
 {% include list.html data="members" component="portrait" filters="role: ^datasci$" %}
-{% include list.html data="members" component="portrait" filters="role: ^phd$, name: ^Yunghan" %}
-{% include list.html data="members" component="portrait" filters="role: ^phd$, name: ^(?!Yunghan)" %}
+{% include list.html data="members" component="portrait" filters="role: ^phd$, name: ^Yung-Han" %}
+{% include list.html data="members" component="portrait" filters="role: ^phd$, name: ^(?!Yung-Han)" %}
 {% include list.html data="members" component="portrait" filters="role: ^ms$" %}
 {% include list.html data="members" component="portrait" filters="role: ^undergrad$" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!(pi|postdoc|datasci|phd|ms|undergrad)$)" %}
