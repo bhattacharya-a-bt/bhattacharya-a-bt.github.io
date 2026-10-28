@@ -61,7 +61,8 @@
       {{ citation.id | default: "[no id info]" }}
     </div>
 
-    {% if include.style == "rich" %}
+    {% comment %} "compact" = rich details without the thumbnail {% endcomment %}
+    {% if include.style == "rich" or include.style == "compact" %}
       {% if citation.description %}
         <div class="citation-description">
           {{

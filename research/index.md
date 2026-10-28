@@ -17,7 +17,7 @@ The Bhattacharya Lab focuses on both genomics methods development and applicatio
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" filters="type: featured" %}
+{% include list.html data="citations" component="citation" filters="type: featured, date: ^20(2[3-9]|[3-9][0-9])" %}
 
 {% include section.html %}
 
@@ -27,4 +27,4 @@ The Bhattacharya Lab focuses on both genomics methods development and applicatio
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="compact" %}
