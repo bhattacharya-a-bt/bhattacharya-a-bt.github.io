@@ -115,4 +115,35 @@ a.citation-title:hover {
   text-decoration: underline;
 }
 
+/* author marks, generated from the CV (see _data/authorship.yaml) */
+.author-pi {
+  font-weight: var(--semi-bold);
+  color: var(--secondary);
+}
+
+.author-trainee {
+  text-decoration: underline;
+  text-decoration-color: var(--brand-steel);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+.citation-authors sup,
+.author-legend sup {
+  color: var(--brand-steel);
+  font-weight: var(--semi-bold);
+}
+
+.author-legend {
+  font-family: var(--code);
+  font-size: 12.5px;
+  color: var(--gray);
+}
+
+.author-legend .author-pi,
+.author-legend .author-trainee {
+  font-family: var(--body);
+  font-size: 15px;
+}
+
 /*# sourceMappingURL=citation.css.map */
