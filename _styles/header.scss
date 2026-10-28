@@ -1,83 +1,62 @@
 ---
 ---
 
-$logo-big: 120px;
-$logo: 80px;
-$big-padding: 100px;
-$collapse: 700px;
-$sticky: true;
-
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 20px;
-  padding: 20px;
-  box-shadow: var(--shadow);
-
-  @if $sticky {
-    position: sticky !important;
-    top: 0;
-    z-index: 10 !important;
-  }
+  gap: 16px 32px;
+  padding: 18px max(32px, calc((100% - 1040px) / 2));
+  border-bottom: 1px solid var(--light-gray);
+  position: sticky !important;
+  top: 0;
+  z-index: 10 !important;
+  background: var(--background) !important;
 }
 
 header a {
-  color: #e0e0e0;
+  color: var(--text);
   text-decoration: none;
 }
 
 .home {
   display: flex;
-  justify-content: flex-start;
   align-items: center;
-  gap: 10px;
-  flex-basis: 0;
-  flex-grow: 1;
-  max-width: 100%;
+  flex-shrink: 0;
 }
 
 .logo {
-  height: $logo;
+  display: block;
+  height: 60px;
 }
 
 .logo > * {
+  display: block;
   height: 100%;
+  width: auto;
+}
+
+/* trim the whitespace baked into the wordmark's artboard */
+.logo .wordmark {
+  margin: 0 -14px 0 -18px;
 }
 
 .title {
-  display: flex;
-  justify-content: flex-start;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: 5px;
-  min-width: 0;
-  font-family: var(--title);
-  text-align: left;
-}
-
-// main title
-.title > *:first-child {
-  font-size: var(--large);
-}
-
-// subtitle
-.title > *:last-child {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  display: none;
 }
 
 .nav-toggle {
   display: none;
   position: relative;
-  width: 30px;
-  height: 30px;
+  width: 36px;
+  height: 36px;
   margin: 0;
-  color: var(--text);
+  background: none;
+  border: 0;
   -webkit-appearance: none;
   appearance: none;
-  transition-property: background;
+  cursor: pointer;
 }
 
 .nav-toggle:after {
@@ -85,8 +64,8 @@ header a {
   position: absolute;
   left: 50%;
   top: 50%;
-  color: var(--text);
-  font-size: 15px;
+  color: var(--secondary);
+  font-size: 18px;
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
   transform: translate(-50%, -50%);
@@ -98,72 +77,47 @@ header a {
 
 nav {
   display: flex;
-  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 4px 28px;
   font-family: var(--heading);
-  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: var(--semi-bold);
+  letter-spacing: 0.01em;
 }
 
 nav > a {
-  padding: 5px;
+  padding: 6px 0;
+  border-bottom: 2px solid transparent;
+  transition-property: color, border-color;
 }
 
 nav > a:hover {
-  color: var(--primary);
+  color: var(--secondary);
+  border-bottom-color: var(--brand-steel);
 }
 
-header:not([data-big]) {
-  @media (max-width: $collapse) {
-    justify-content: flex-end;
-
-    .nav-toggle {
-      display: flex;
-    }
-
-    .nav-toggle:not(:checked) + nav {
-      display: none;
-    }
-
-    nav {
-      align-items: flex-end;
-      flex-direction: column;
-      width: 100%;
-    }
-  }
-}
-
-header[data-big] {
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  padding: $big-padding 20px;
-
-  @if $sticky {
-    top: unset;
-  }
-
-  .home {
-    flex-direction: column;
-    flex-grow: 0;
+@media (max-width: 760px) {
+  header {
+    padding: 14px 20px;
   }
 
   .logo {
-    height: $logo-big;
+    height: 40px;
   }
 
-  .title {
+  .nav-toggle {
+    display: block;
+  }
+
+  .nav-toggle:not(:checked) + nav {
+    display: none;
+  }
+
+  nav {
     flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .title > *:first-child {
-    font-size: var(--xxl);
-  }
-
-  .title > *:last-child {
-    font-size: var(--large);
+    align-items: flex-start;
+    width: 100%;
+    padding-bottom: 8px;
   }
 }

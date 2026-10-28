@@ -15,7 +15,10 @@ collaboration, creativity, and civility.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(postdoc|datasci)$" %}
+{% include list.html data="members" component="portrait" filters="role: ^(phd|ms)$" %}
+{% include list.html data="members" component="portrait" filters="role: ^undergrad$" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!(pi|postdoc|datasci|phd|ms|undergrad)$)" %}
 
 {% include section.html background="images/anderson_whole.jpeg" dark=true %}
 

@@ -4,13 +4,12 @@
 .post-excerpt {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
-  margin: 20px 0;
-  padding: 20px 30px;
-  border-radius: var(--rounded);
-  background: var(--background);
+  gap: 10px 20px;
+  margin: 0;
+  padding: 28px 0;
+  border-top: 1px solid var(--light-gray);
+  background: none;
   text-align: left;
-  box-shadow: var(--shadow);
 }
 
 .post-excerpt > * {
@@ -19,7 +18,15 @@
 
 .post-excerpt > a:first-child {
   width: 100%;
-  font-weight: var(--semi-bold);
+  font-family: var(--heading);
+  font-size: var(--large);
+  font-weight: var(--bold);
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.post-excerpt > a:first-child:hover {
+  text-decoration: underline;
 }
 
 .post-excerpt > div {
