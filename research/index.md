@@ -9,6 +9,8 @@ nav:
 
 The Bhattacharya Lab focuses on both genomics methods development and applications of these methods to study complex traits and diseases using large molecular datasets through multi-group collaboration. We highlight manuscripts with primary contributions from our group and include work to which we’ve contributed.
 
+<p class="author-legend"><b class="author-pi">Arjun Bhattacharya</b> &nbsp;·&nbsp; <span class="author-trainee">lab trainee</span> &nbsp;·&nbsp; <sup>*</sup> equal contribution</p>
+
 {% include section.html %}
 
 ## Highlighted
